@@ -1,0 +1,8 @@
+Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description
+cancelled,Cancelled,cancelled,,0,
+declined,Declined,declined,,1,
+diverted-/-suspended,Diverted / Suspended,diverted-/-suspended,,2,
+supported-completed,Supported & Completed,supported-completed,,3,
+terminated-en-route,Terminated En Route,terminated-en-route,,4,
+terminated-prior-to-launch,Terminated Prior to Launch,terminated-prior-to-launch,,5,
+terminated-on-scene,Terminated on Scene,terminated-on-scene,,6,

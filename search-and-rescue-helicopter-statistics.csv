@@ -1,0 +1,1507 @@
+Date,Day of week,Base,ONS_code,Type of tasking,Tasking location,Tasking outcome,Region,Duration,Latitude,Longitude
+2022-04-01,friday,Humberside,E06000011,rescue/recovery,coast,supported-completed,east-midlands,2.0,53.4939666666666,0.126983333333333
+2022-04-01,friday,Stornoway,S12000033,rescue/recovery,land,terminated-on-scene,highlands-and-islands,1.0,58.4835,-6.25818333333333
+2022-04-02,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.2023333333333,-5.15466666666666
+2022-04-02,saturday,Inverness,S12000027,support,land,terminated-en-route,highlands-and-islands,1.0,56.7971666666666,-5.014
+2022-04-02,saturday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-on-scene,south-east,2.0,50.7333333333333,0.233333333333333
+2022-04-02,saturday,Lee On Solent,E04012176,search-only,maritime,supported-completed,south-east,12.0,50.5675,1.10566666666666
+2022-04-02,saturday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,south-east,2.0,50.8133333333333,0.875
+2022-04-02,saturday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,5.0,50.5675,1.10566666666666
+2022-04-02,saturday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.91366666666665,-6.29408333333333
+2022-04-02,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,50.1621666666666,-5.70458333333333
+2022-04-02,saturday,Prestwick,S12000028,search-only,coast,supported-completed,eastern-scotland,2.0,56.1766666666666,-3.01333333333333
+2022-04-02,saturday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,60.3166666666666,-4.275
+2022-04-02,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,60.33111111111106,-4.200555555555553
+2022-04-03,sunday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,9.0,50.0678333333333,1.159
+2022-04-03,sunday,Prestwick,S12000028,support,coast,supported-completed,eastern-scotland,1.0,56.0578333333333,-3.24766666666666
+2022-04-03,sunday,St Athan,W06000015,search-only,maritime,supported-completed,wales,1.0,51.8,-5.64166666666666
+2022-04-03,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.9435,-1.1985
+2022-04-04,monday,Inverness,S12000027,search-only,coast,supported-completed,north-eastern-scotland,2.0,57.6816666666666,-1.915
+2022-04-04,monday,Lydd,E04004358,rescue/recovery,land,supported-completed,south-east,3.0,51.1343333333333,1.353
+2022-04-04,monday,Lydd,E04004358,support,maritime,terminated-prior-to-launch,south-east,0.0,51.4653333333333,2.35833333333333
+2022-04-04,monday,Newquay,E06000052,search-only,maritime,supported-completed,wales,4.0,51.45,-6.11666666666666
+2022-04-04,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.4996666666666,-6.86883333333333
+2022-04-04,monday,Prestwick,S12000028,search-only,land,terminated-prior-to-launch,eastern-scotland,1.0,56.0033333333333,-2.81666666666666
+2022-04-04,monday,St Athan,W06000015,search-only,land,supported-completed,wales,2.0,51.6173333333333,-3.01666666666666
+2022-04-04,monday,St Athan,W06000015,search-only,maritime,supported-completed,wales,8.0,51.45,-6.11666666666666
+2022-04-04,monday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,0.0,56.4996333333333,-6.86886666666666
+2022-04-05,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.1503333333333,-3.20333333333333
+2022-04-05,tuesday,Caernarfon,W06000002,support,coast,cancelled,wales,0.0,53.3058333333333,-3.54866666666666
+2022-04-05,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,58.1683333333333,-4.6945
+2022-04-05,tuesday,Lee On Solent,E04012176,support,land,terminated-on-scene,london,1.0,51.6676666666666,-0.133666666666666
+2022-04-05,tuesday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,1.0,50.7373333333333,0.247666666666666
+2022-04-05,tuesday,Lydd,E04004358,support,coast,supported-completed,south-east,1.0,50.7383666666666,0.2463
+2022-04-05,tuesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,3.0,49.9133333333333,-6.29316666666666
+2022-04-05,tuesday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,7.0,58.4586666666666,-3.095
+2022-04-05,tuesday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,57.4738333333333,-7.372
+2022-04-05,tuesday,Stornoway,S12000033,search-only,coast,terminated-on-scene,highlands-and-islands,3.0,58.49,-5.12233333333333
+2022-04-06,wednesday,Caernarfon,W06000002,support,land,supported-completed,wales,2.0,53.0625,-3.1355
+2022-04-07,thursday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.6938333333333,-1.28766666666666
+2022-04-07,thursday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-west,4.0,49.4338333333333,-2.60516666666666
+2022-04-07,thursday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.7386666666666,0.220333333333333
+2022-04-07,thursday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.8914833333333,-6.3484
+2022-04-08,friday,Caernarfon,W06000002,support,land,terminated-on-scene,north-west,3.0,54.3328333333333,-3.37016666666666
+2022-04-08,friday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.7333333333333,0.216666666666666
+2022-04-08,friday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,50.8795,-6.39583333333333
+2022-04-08,friday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,1.0,51.6898666666666,-3.06598333333333
+2022-04-08,friday,St Athan,W06000015,support,land,terminated-on-scene,wales,2.0,51.7863333333333,-3.56133333333333
+2022-04-08,friday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,59.1541666666666,-2.64516666666666
+2022-04-09,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,52.96099999999995,-3.90208333333333
+2022-04-09,saturday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.8533333333333,1.34833333333333
+2022-04-09,saturday,Stornoway,S12000033,rescue/recovery,coast,terminated-en-route,highlands-and-islands,1.0,57.134,-5.971
+2022-04-10,sunday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,northern-ireland,3.0,54.0705,-4.734
+2022-04-10,sunday,Caernarfon,W06000002,rescue/recovery,land,terminated-on-scene,wales,1.0,53.0666666666666,-4.16666666666666
+2022-04-10,sunday,Newquay,E06000052,support,coast,terminated-prior-to-launch,south-west,0.0,50.418,-5.07283333333333
+2022-04-10,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,55.6631666666666,-5.2575
+2022-04-10,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,2.0,55.5,-4.03333333333333
+2022-04-10,sunday,Prestwick,S12000028,support,coast,terminated-on-scene,eastern-scotland,1.0,56.0833333333333,-3.15
+2022-04-10,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,57.5215,-6.2255
+2022-04-11,monday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,11.0,54.1012333333333,-3.26333333333333
+2022-04-11,monday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,54.0333333333333,0.726666666666666
+2022-04-11,monday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-en-route,south-west,1.0,50.7080333333333,-2.76328333333333
+2022-04-11,monday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,3.0,49.9131666666666,-6.29183333333333
+2022-04-12,tuesday,Humberside,E06000011,rescue/recovery,land,supported-completed,yorkshire-and-the-humber,3.0,53.7066666666666,-0.850833333333333
+2022-04-12,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,north-east,6.0,56.3833333333333,2.25
+2022-04-12,tuesday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,7.0,56.836,-5.07
+2022-04-12,tuesday,Inverness,S12000027,support,land,terminated-en-route,southern-scotland,1.0,55.54125,-3.55296666666666
+2022-04-12,tuesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9142166666666,-6.29486666666666
+2022-04-12,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,3.0,55.54125,-3.55296666666666
+2022-04-12,tuesday,Prestwick,S12000028,search-only,coast,terminated-on-scene,highlands-and-islands,2.0,55.4333333333333,-5.53333333333333
+2022-04-12,tuesday,Prestwick,S12000028,search-only,land,supported-completed,eastern-scotland,4.0,56.0716666666666,-3.735
+2022-04-12,tuesday,St Athan,W06000015,rescue/recovery,maritime,supported-completed,south-west,3.0,49.5685,-4.2235
+2022-04-12,tuesday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,58.0666666666666,-5.45
+2022-04-12,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,60.9533333333333,0.94
+2022-04-12,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,3.0,58.4616666666666,0.251666666666666
+2022-04-13,wednesday,Inverness,S12000027,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,6.0,56.46555,-5.39765
+2022-04-13,wednesday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,4.0,58.3066666666666,-1.76833333333333
+2022-04-13,wednesday,Lydd,E04004358,support,land,terminated-on-scene,south-east,1.0,51.399,0.562166666666666
+2022-04-13,wednesday,Lydd,E04004358,support,maritime,terminated-en-route,south-east,0.0,51.1216666666666,1.6
+2022-04-13,wednesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9126666666666,-6.30983333333333
+2022-04-13,wednesday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,eastern-scotland,1.0,56.1126666666666,-3.14966666666666
+2022-04-14,thursday,Inverness,S12000027,support,maritime,terminated-prior-to-launch,highlands-and-islands,1.0,60.0366666666666,-7.51333333333333
+2022-04-14,thursday,Lydd,E04004358,support,maritime,supported-completed,south-east,2.0,50.8338333333333,1.19166666666666
+2022-04-14,thursday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,5.0,49.946,-6.331
+2022-04-14,thursday,Newquay,E06000052,support,coast,cancelled,south-west,1.0,49.946,-6.331
+2022-04-14,thursday,Stornoway,S12000033,support,maritime,terminated-prior-to-launch,highlands-and-islands,1.0,60.0366666666666,-7.51333333333333
+2022-04-14,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.5,60.88166666666661,1.444166666666665
+2022-04-15,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,5.0,53.1185,-3.99616666666666
+2022-04-15,friday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,4.0,49.2073333333333,-2.19633333333333
+2022-04-15,friday,Lydd,E04004358,rescue/recovery,coast,terminated-prior-to-launch,south-east,0.0,51.0621333333333,1.29646666666666
+2022-04-15,friday,Lydd,E04004358,rescue/recovery,land,supported-completed,south-east,1.0,51.1106666666666,1.10866666666666
+2022-04-15,friday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9125,-6.30233333333333
+2022-04-15,friday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,4.0,51.0523333333333,-4.5915
+2022-04-15,friday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.9752666666666,-6.86293333333333
+2022-04-16,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.3333333333333333,53.09188888888883,-4.05069444444444
+2022-04-16,saturday,Caernarfon,W06000002,support,coast,terminated-en-route,wales,0.0,52.9608333333333,-4.49266666666666
+2022-04-16,saturday,Humberside,E06000011,rescue/recovery,land,supported-completed,north-west,4.0,54.4846166666666,-3.21628333333333
+2022-04-16,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.55499999999995,-2.384916666666665
+2022-04-16,saturday,Lydd,E04004358,support,maritime,supported-completed,south-east,2.0,51.0493333333333,1.55683333333333
+2022-04-16,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,1.0,50.3011666666666,-5.23799999999999
+2022-04-16,saturday,Newquay,E06000052,rescue/recovery,coast,terminated-en-route,south-west,0.0,50.41,-5.1225
+2022-04-16,saturday,Newquay,E06000052,search-only,coast,supported-completed,south-west,0.0,50.4133333333333,-5.087
+2022-04-16,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.0,-4.32083333333333
+2022-04-16,saturday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,5.0,52.8042166666666,-3.86905
+2022-04-16,saturday,St Athan,W06000015,support,coast,terminated-en-route,wales,1.0,52.9608333333333,-4.49266666666666
+2022-04-16,saturday,Stornoway,S12000033,rescue/recovery,coast,terminated-en-route,highlands-and-islands,1.0,57.024,-6.012
+2022-04-16,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.5,59.55166666666665,1.620499999999995
+2022-04-17,sunday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,1.0,53.411,-3.15683333333333
+2022-04-17,sunday,Humberside,E06000011,search-only,coast,terminated-en-route,yorkshire-and-the-humber,0.0,54.2115,-0.273333333333333
+2022-04-17,sunday,Inverness,S12000027,support,land,terminated-on-scene,highlands-and-islands,2.0,57.1533333333333,-5.179
+2022-04-17,sunday,Newquay,E06000052,pre-arranged-transfer,land,terminated-prior-to-launch,south-west,1.0,49.9195,-6.29683333333333
+2022-04-17,sunday,Prestwick,S12000028,pre-arranged-transfer,coast,cancelled,highlands-and-islands,1.0,55.7606666666666,-4.92283333333333
+2022-04-17,sunday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,2.0,56.5048333333333,-5.88203333333333
+2022-04-17,sunday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,west-central-scotland,2.0,55.9476666666666,-4.88933333333333
+2022-04-17,sunday,St Athan,W06000015,search-only,land,terminated-on-scene,south-west,2.0,50.8848333333333,-2.811
+2022-04-18,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,2.0,53.9004666666666,-2.61938333333333
+2022-04-18,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,52.7706666666666,-3.7075
+2022-04-18,monday,Humberside,E06000011,rescue/recovery,coast,terminated-on-scene,yorkshire-and-the-humber,0.0,53.629833333333295,-0.23925
+2022-04-18,monday,Humberside,E06000011,rescue/recovery,land,terminated-on-scene,yorkshire-and-the-humber,0.0,53.7475,-0.330333333333333
+2022-04-18,monday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.6691666666666,-2.638
+2022-04-18,monday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-east,4.0,50.8143833333333,-0.1376
+2022-04-18,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9141666666666,-6.29488333333333
+2022-04-18,monday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.34,-6.395
+2022-04-18,monday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,eastern-scotland,1.0,56.25,-4.21666666666666
+2022-04-18,monday,Prestwick,S12000028,search-only,coast,terminated-on-scene,highlands-and-islands,1.0,57.055,-5.9115
+2022-04-18,monday,Stornoway,S12000033,search-only,coast,supported-completed,highlands-and-islands,3.0,57.0577,-5.91348333333333
+2022-04-18,monday,Sumburgh,S12000017,rescue/recovery,maritime,terminated-on-scene,highlands-and-islands,1.0,60.9066666666666,1.42
+2022-04-19,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,52.6998333333333,-3.90516666666666
+2022-04-19,tuesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9126666666666,-6.30614166666666
+2022-04-19,tuesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,50.4068333333333,-5.12283333333333
+2022-04-19,tuesday,Newquay,E06000052,rescue/recovery,coast,terminated-on-scene,south-west,1.0,50.0533333333333,-5.55916666666666
+2022-04-19,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,3.0,55.6475,-3.03933333333333
+2022-04-19,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,3.0,51.6,-4.93
+2022-04-19,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-on-scene,south-west,0.0,50.0533333333333,-5.55916666666666
+2022-04-19,tuesday,St Athan,W06000015,rescue/recovery,land,terminated-prior-to-launch,south-west,0.0,51.211,-3.46766666666666
+2022-04-19,tuesday,St Athan,W06000015,support,land,terminated-en-route,wales,1.0,51.744,-4.4985
+2022-04-19,tuesday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,58.2218333333333,-6.38215
+2022-04-19,tuesday,Stornoway,S12000033,support,land,terminated-on-scene,highlands-and-islands,1.0,58.0198333333333,-5.342
+2022-04-20,wednesday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,51.4587,0.835866666666666
+2022-04-20,wednesday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,50.8498333333333,0.552833333333333
+2022-04-20,wednesday,St Athan,W06000015,search-only,land,supported-completed,south-west,2.0,51.4543,-2.62886666666666
+2022-04-20,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,58.1752166666666,-7.04181666666666
+2022-04-20,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,61.24,1.15
+2022-04-21,thursday,Humberside,E06000011,rescue/recovery,coast,supported-completed,yorkshire-and-the-humber,3.0,54.1326833333333,-0.11595
+2022-04-21,thursday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,3.0,57.935,-4.808
+2022-04-21,thursday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-east,0.0,50.7361666666666,-1.16233333333333
+2022-04-21,thursday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,51.0746666666666,1.17333333333333
+2022-04-21,thursday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9461333333333,-6.33101666666666
+2022-04-21,thursday,Prestwick,S12000028,search-only,land,supported-completed,eastern-scotland,3.0,56.477,-4.5635
+2022-04-21,thursday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.6067833333333,-4.91566666666666
+2022-04-22,friday,Inverness,S12000027,pre-arranged-transfer,land,terminated-prior-to-launch,highlands-and-islands,0.0,58.4586666666666,-3.095
+2022-04-22,friday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,5.0,57.2566666666666,0.81
+2022-04-23,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,2.0,57.1216666666666,-2.9875
+2022-04-23,saturday,Inverness,S12000027,support,coast,declined,highlands-and-islands,1.0,57.6952666666666,-4.14741666666666
+2022-04-23,saturday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-west,0.0,50.6808333333333,-1.9545
+2022-04-23,saturday,Prestwick,S12000028,support,coast,terminated-en-route,highlands-and-islands,1.0,55.67375,-5.74215
+2022-04-23,saturday,Prestwick,S12000028,support,land,terminated-en-route,eastern-scotland,1.0,55.9531666666666,-3.10496666666666
+2022-04-23,saturday,St Athan,W06000015,support,land,terminated-on-scene,wales,1.0,51.7760666666666,-3.3798
+2022-04-24,sunday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,1.0,53.3411666666666,-3.85333333333333
+2022-04-24,sunday,Humberside,E06000011,rescue/recovery,land,supported-completed,east-of-england,4.0,52.6106666666666,1.70733333333333
+2022-04-24,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.5,56.798666666666605,-4.98791666666666
+2022-04-24,sunday,Inverness,S12000027,support,land,terminated-prior-to-launch,highlands-and-islands,1.0,57.272,-3.28041666666666
+2022-04-24,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.3315,-4.6845
+2022-04-24,sunday,Prestwick,S12000028,search-only,land,supported-completed,southern-scotland,0.0,55.69,-4.885
+2022-04-24,sunday,Prestwick,S12000028,support,coast,terminated-on-scene,southern-scotland,1.0,55.6116666666666,-4.76
+2022-04-24,sunday,St Athan,W06000015,support,land,terminated-prior-to-launch,wales,1.0,51.9712666666666,-5.0822
+2022-04-24,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,5.0,57.5805,-5.5945
+2022-04-24,sunday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,59.3498333333333,-2.95116666666666
+2022-04-25,monday,Lee On Solent,E04012176,rescue/recovery,land,terminated-prior-to-launch,south-east,0.0,50.7153333333333,-1.10616666666666
+2022-04-25,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.966,-6.3035
+2022-04-25,monday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,3.0,51.4646666666666,-2.83183333333333
+2022-04-25,monday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,60.3568333333333,-0.963166666666666
+2022-04-25,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.25,-4.01666666666666
+2022-04-26,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.084,-4.07383333333333
+2022-04-26,tuesday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,0.0,57.7216666666666,0.903333333333333
+2022-04-26,tuesday,Lydd,E04004358,search-only,coast,supported-completed,south-east,3.0,50.7383333333333,0.246166666666666
+2022-04-26,tuesday,Prestwick,S12000028,support,maritime,supported-completed,northern-ireland,1.0,54.9163333333333,-5.68999999999999
+2022-04-26,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,5.0,51.6391666666666,-4.805
+2022-04-26,tuesday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.9618333333333,-3.40883333333333
+2022-04-26,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,6.0,56.725,2.20666666666666
+2022-04-27,wednesday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,0.0,53.4168333333333,-3.11933333333333
+2022-04-27,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.601,0.465166666666666
+2022-04-27,wednesday,Prestwick,S12000028,pre-arranged-transfer,coast,diverted-/-suspended,highlands-and-islands,2.0,55.6820666666666,-6.25866666666666
+2022-04-27,wednesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,55.8063,-5.48506666666666
+2022-04-27,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,3.0,56.5538333333333,-4.214
+2022-04-27,wednesday,Stornoway,S12000033,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,8.0,55.682,-6.25866666666666
+2022-04-27,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.5398333333333,-7.16816666666666
+2022-04-28,thursday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,5.0,57.0216666666666,1.48
+2022-04-28,thursday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,1.0,57.3338333333333,-4.95366666666666
+2022-04-28,thursday,Inverness,S12000027,search-only,land,supported-completed,north-eastern-scotland,4.0,57.529,-1.841
+2022-04-28,thursday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.711,-1.30283333333333
+2022-04-28,thursday,Prestwick,S12000028,search-only,land,supported-completed,highlands-and-islands,16.0,57.3338333333333,-4.95366666666666
+2022-04-28,thursday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.4553333333333,-3.6305
+2022-04-28,thursday,St Athan,W06000015,rescue/recovery,land,terminated-on-scene,wales,2.0,51.4333333333333,-3.16666666666666
+2022-04-28,thursday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,5.0,57.3338333333333,-4.95366666666666
+2022-04-28,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,6.0,58.0333333333333,1.13333333333333
+2022-04-29,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.4833333333333,-5.3
+2022-04-29,friday,Newquay,E06000052,search-only,coast,supported-completed,south-west,2.0,50.0666666666666,-5.3
+2022-04-29,friday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,1.0,51.1624666666666,-4.65151666666666
+2022-04-29,friday,St Athan,W06000015,search-only,coast,supported-completed,wales,2.0,52.1166666666666,-4.68433333333333
+2022-04-30,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0765,-4.08983333333333
+2022-04-30,saturday,Caernarfon,W06000002,search-only,land,supported-completed,southern-scotland,3.0,54.1578333333333,-4.47933333333333
+2022-04-30,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,57.5084,-5.41045
+2022-04-30,saturday,Inverness,S12000027,support,maritime,terminated-en-route,highlands-and-islands,1.0,56.8846666666666,-6.11916666666666
+2022-04-30,saturday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-west,7.0,49.435,-2.60283333333333
+2022-04-30,saturday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.2126666666666,-5.21383333333333
+2022-04-30,saturday,Newquay,E06000052,support,land,supported-completed,south-west,1.0,50.262,-5.28876666666666
+2022-04-30,saturday,Prestwick,S12000028,support,land,terminated-en-route,north-west,1.0,54.5697,-3.22746666666666
+2022-05-01,sunday,Caernarfon,W06000002,search-only,land,supported-completed,wales,2.0,52.6690333333333,-3.86738333333333
+2022-05-01,sunday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-east,4.0,50.7347666666666,0.246133333333333
+2022-05-01,sunday,Lydd,E04004358,search-only,land,supported-completed,south-east,1.0,51.19859166666665,1.2164833333333314
+2022-05-01,sunday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,1.0,51.4846666666666,1.82316666666666
+2022-05-01,sunday,Lydd,E04004358,support,coast,supported-completed,south-east,1.0,50.7651666666666,0.294333333333333
+2022-05-01,sunday,Newquay,E06000052,search-only,land,supported-completed,south-west,3.0,50.3643333333333,-4.80466666666666
+2022-05-01,sunday,St Athan,W06000015,rescue/recovery,coast,terminated-prior-to-launch,wales,0.0,51.5833333333333,-3.81666666666666
+2022-05-01,sunday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.6801666666666,-4.70033333333333
+2022-05-01,sunday,St Athan,W06000015,search-only,coast,supported-completed,south-west,3.0,51.2115,-4.12
+2022-05-01,sunday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,3.0,57.33915,-4.9592
+2022-05-02,monday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,1.0,52.9825,-4.44433333333333
+2022-05-02,monday,Caernarfon,W06000002,support,coast,terminated-prior-to-launch,wales,0.0,52.9825,-4.44433333333333
+2022-05-02,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.8603333333333,-5.65966666666666
+2022-05-02,monday,Inverness,S12000027,support,land,supported-completed,north-eastern-scotland,3.0,57.081,-3.71233333333333
+2022-05-02,monday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-west,9.0,50.7015,-1.96166666666666
+2022-05-02,monday,Lee On Solent,E04012176,support,maritime,supported-completed,south-west,2.0,50.45,-2.66516666666666
+2022-05-02,monday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,2.0,51.073,1.5715
+2022-05-02,monday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,57.476,-4.1945
+2022-05-02,monday,St Athan,W06000015,support,maritime,terminated-en-route,south-west,0.0,50.45,-2.66516666666666
+2022-05-03,tuesday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,3.0,58.9575,-2.90416666666666
+2022-05-03,tuesday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-west,3.0,50.095,-2.301
+2022-05-03,tuesday,Lee On Solent,E04012176,support,land,terminated-en-route,south-east,1.0,50.8081666666666,-0.5225
+2022-05-03,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,south-east,2.0,50.6758333333333,0.882166666666666
+2022-05-03,tuesday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.7353333333333,0.210666666666666
+2022-05-03,tuesday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,3.0,49.952,-6.3385
+2022-05-03,tuesday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,5.0,56.463,-5.39966666666666
+2022-05-04,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,10.0,49.2073333333333,-2.19633333333333
+2022-05-04,wednesday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-east,0.0,50.789,-1.12333333333333
+2022-05-04,wednesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.5,49.9096333333333,-6.30683333333333
+2022-05-04,wednesday,Newquay,E06000052,support,maritime,supported-completed,south-west,3.0,49.919,-6.42283333333333
+2022-05-04,wednesday,St Athan,W06000015,support,land,terminated-on-scene,south-west,1.0,51.4025,-2.62733333333333
+2022-05-04,wednesday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,57.8109833333333,-8.56775
+2022-05-04,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.285,-4.07666666666666
+2022-05-05,thursday,Lydd,E04004358,search-only,coast,supported-completed,east-of-england,2.0,52.0266333333333,1.16606666666666
+2022-05-05,thursday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.91245,-6.293
+2022-05-05,thursday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,57.25,-5.82783333333333
+2022-05-05,thursday,Prestwick,S12000028,rescue/recovery,coast,terminated-on-scene,highlands-and-islands,2.0,56.5643333333333,-5.53983333333333
+2022-05-05,thursday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.7378333333333,-5.29633333333333
+2022-05-05,thursday,Sumburgh,S12000017,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,6.0,59.8785,-1.30025
+2022-05-05,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.3033333333333,-3.945
+2022-05-06,friday,Caernarfon,W06000002,pre-arranged-transfer,land,supported-completed,southern-scotland,4.0,54.1725,-4.50466666666666
+2022-05-06,friday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,1.0,53.246,-4.61366666666666
+2022-05-06,friday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.6113333333333,-3.38633333333333
+2022-05-06,friday,St Athan,W06000015,rescue/recovery,land,terminated-on-scene,south-west,1.0,51.227,-3.92766666666666
+2022-05-06,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,59.3133333333333,1.52716666666666
+2022-05-07,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.1153333333333,-4.02283333333333
+2022-05-07,saturday,Caernarfon,W06000002,search-only,coast,supported-completed,wales,0.0,53.2966666666666,-3.67166666666666
+2022-05-07,saturday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,0.0,53.3313333333333,-3.85133333333333
+2022-05-07,saturday,Humberside,E06000011,rescue/recovery,land,supported-completed,north-east,3.0,55.5828333333333,-1.652
+2022-05-07,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.952999999999946,-5.003166666666665
+2022-05-07,saturday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.5,49.9133333333333,-6.291499999999996
+2022-05-07,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,1.0,51.4423333333333,-2.86466666666666
+2022-05-07,saturday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,2.0,50.5528333333333,-4.01033333333333
+2022-05-07,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.2488333333333,-6.25383333333333
+2022-05-08,sunday,Humberside,E06000011,rescue/recovery,coast,supported-completed,yorkshire-and-the-humber,1.0,54.1321666666666,-0.107166666666666
+2022-05-08,sunday,Humberside,E06000011,rescue/recovery,coast,terminated-en-route,north-east,1.0,54.9715,-1.36416666666666
+2022-05-08,sunday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-on-scene,south-west,1.0,50.5818333333333,-2.06066666666666
+2022-05-08,sunday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,3.0,50.122,-5.17416666666666
+2022-05-08,sunday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,north-eastern-scotland,4.0,57.1538333333333,-2.1335
+2022-05-08,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,6.0,60.8383333333333,1.49166666666666
+2022-05-09,monday,Humberside,E06000011,rescue/recovery,maritime,terminated-en-route,north-eastern-scotland,1.0,56.7916666666666,1.895
+2022-05-09,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.7678333333333,-4.97783333333333
+2022-05-09,monday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-east,5.0,56.39,2.25333333333333
+2022-05-09,monday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-prior-to-launch,south-east,0.0,50.7416666666666,0.120333333333333
+2022-05-09,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.5,49.9166665,-6.3089165000000005
+2022-05-09,monday,Newquay,E06000052,support,land,terminated-en-route,south-west,1.0,50.34855,-4.72538333333333
+2022-05-09,monday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.6081666666666,-3.51868333333333
+2022-05-10,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.123,-4.1055
+2022-05-10,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,1.0,53.5776666666666,0.390166666666666
+2022-05-10,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.1035,-5.38633333333333
+2022-05-10,tuesday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,49.952,-6.3385
+2022-05-10,tuesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.3326833333333,-5.9214
+2022-05-10,tuesday,Prestwick,S12000028,search-only,land,supported-completed,highlands-and-islands,2.0,56.5316666666666,-4.9105
+2022-05-10,tuesday,Prestwick,S12000028,support,maritime,terminated-on-scene,highlands-and-islands,5.0,56.2216666666666,-6.855
+2022-05-10,tuesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.7001666666666,-5.52916666666666
+2022-05-10,tuesday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,10.0,58.5333333333333,-8.36666666666666
+2022-05-10,tuesday,Stornoway,S12000033,rescue/recovery,maritime,terminated-on-scene,highlands-and-islands,2.0,58.5333333333333,-8.36666666666666
+2022-05-11,wednesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.0,53.0668333333333,-4.07433333333333
+2022-05-11,wednesday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,5.0,57.1078333333333,-5.42466666666666
+2022-05-11,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.6356666666666,-4.93383333333333
+2022-05-11,wednesday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,58.7900166666666,-6.2976
+2022-05-11,wednesday,Sumburgh,S12000017,support,land,terminated-en-route,highlands-and-islands,1.0,58.9633333333333,-3.0955
+2022-05-12,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,6.0,54.5253333333333,-3.008
+2022-05-12,thursday,Caernarfon,W06000002,search-only,land,supported-completed,wales,2.0,53.109,-4.033
+2022-05-12,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.8453666666666,-4.73803333333333
+2022-05-12,thursday,Inverness,S12000027,support,coast,terminated-on-scene,highlands-and-islands,1.0,57.5833333333333,-4.09883333333333
+2022-05-12,thursday,Lydd,E04004358,support,coast,supported-completed,south-east,2.0,50.7371666666666,0.2135
+2022-05-12,thursday,Newquay,E06000052,support,coast,terminated-on-scene,south-west,1.0,50.4077,-5.12211666666666
+2022-05-12,thursday,Newquay,E06000052,support,coast,terminated-prior-to-launch,south-west,1.0,50.3393666666666,-3.5654
+2022-05-12,thursday,Prestwick,S12000028,rescue/recovery,coast,terminated-on-scene,highlands-and-islands,1.0,56.545,-5.43916666666666
+2022-05-12,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.9931666666666,-7.46233333333333
+2022-05-12,thursday,Stornoway,S12000033,support,land,terminated-prior-to-launch,highlands-and-islands,0.0,58.0176666666666,-6.46516666666666
+2022-05-12,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.8083333333333,1.73833333333333
+2022-05-13,friday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,22.0,58.1863666666666,-4.5121
+2022-05-13,friday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.7371666666666,0.2505
+2022-05-13,friday,Lydd,E04004358,support,maritime,terminated-on-scene,south-east,1.0,50.3333333333333,-0.0333333333333333
+2022-05-13,friday,Newquay,E06000052,search-only,land,supported-completed,south-west,4.0,50.4575,-3.53966666666666
+2022-05-13,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.1553333333333,-4.964
+2022-05-13,friday,Prestwick,S12000028,support,land,terminated-prior-to-launch,highlands-and-islands,1.0,58.1863666666666,-4.5121
+2022-05-13,friday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,4.0,51.8641666666666,-3.7425
+2022-05-14,saturday,Humberside,E06000011,search-only,coast,supported-completed,yorkshire-and-the-humber,1.0,53.704,-0.455166666666666
+2022-05-14,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,4.0,56.6663166666666,-4.10156666666666
+2022-05-14,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.6620083333333,-4.901341666666665
+2022-05-14,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.8971666666666,-5.49366666666666
+2022-05-14,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,3.0,51.5633333333333,-4.31833333333333
+2022-05-14,saturday,St Athan,W06000015,support,land,terminated-prior-to-launch,wales,0.0,51.54395,-4.21066666666666
+2022-05-14,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,6.0,57.2166666666666,-6.08166666666666
+2022-05-14,saturday,Stornoway,S12000033,support,land,terminated-on-scene,highlands-and-islands,2.0,57.2166666666666,-6.08166666666666
+2022-05-15,sunday,Inverness,S12000027,rescue/recovery,coast,terminated-en-route,eastern-scotland,4.0,56.5597333333333,-2.55476666666666
+2022-05-15,sunday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,3.0,56.9702833333333,-5.77728333333333
+2022-05-15,sunday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,4.0,49.208,-2.1955
+2022-05-15,sunday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-east,2.0,50.4666666666666,-1.58333333333333
+2022-05-15,sunday,Lydd,E04004358,support,coast,terminated-en-route,south-east,1.0,51.4453333333333,0.744166666666666
+2022-05-15,sunday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,51.0715,1.171
+2022-05-15,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.4957166666666,-3.27218333333333
+2022-05-15,sunday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.7974833333333,-3.53708333333333
+2022-05-15,sunday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,56.7083333333333,-7.35133333333333
+2022-05-15,sunday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,1.0,57.5368333333333,-6.19383333333333
+2022-05-16,monday,Humberside,E06000011,rescue/recovery,coast,terminated-prior-to-launch,east-of-england,0.0,52.9771666666666,0.6395
+2022-05-16,monday,Humberside,E06000011,rescue/recovery,land,terminated-en-route,north-east,1.0,54.8501666666666,-1.34266666666666
+2022-05-16,monday,Humberside,E06000011,search-only,land,terminated-prior-to-launch,east-midlands,0.0,52.6333333333333,-0.983333333333333
+2022-05-16,monday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,58.715,-2.95
+2022-05-16,monday,Inverness,S12000027,search-only,coast,supported-completed,highlands-and-islands,4.0,56.4431666666666,-5.23799999999999
+2022-05-16,monday,Inverness,S12000027,support,land,terminated-on-scene,north-eastern-scotland,5.0,57.0531666666666,-3.71283333333333
+2022-05-16,monday,Prestwick,S12000028,search-only,coast,terminated-en-route,highlands-and-islands,1.0,56.4431666666666,-5.23799999999999
+2022-05-16,monday,Stornoway,S12000033,search-only,coast,terminated-en-route,highlands-and-islands,4.0,56.4431666666666,-5.23799999999999
+2022-05-17,tuesday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,58.9643333333333,-2.89816666666666
+2022-05-17,tuesday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,57.9166666666666,-5.23333333333333
+2022-05-17,tuesday,Inverness,S12000027,rescue/recovery,coast,terminated-en-route,highlands-and-islands,0.0,57.8771666666666,-6.93416666666666
+2022-05-17,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.9226666666666,-3.273
+2022-05-17,tuesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,3.0,50.66,-6.38
+2022-05-17,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-prior-to-launch,south-west,0.0,51.3366666666666,-2.984
+2022-05-17,tuesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,7.0,57.21,-6.28816666666666
+2022-05-17,tuesday,Stornoway,S12000033,search-only,coast,supported-completed,highlands-and-islands,2.0,57.5223333333333,-5.65233333333333
+2022-05-17,tuesday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,2.0,57.21,-6.28816666666666
+2022-05-18,wednesday,Caernarfon,W06000002,search-only,land,terminated-on-scene,wales,5.0,52.9333333333333,-3.08333333333333
+2022-05-18,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,4.0,53.32365,2.57466666666666
+2022-05-18,wednesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.808,-1.1245
+2022-05-18,wednesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.6666666666666665,49.91305555555553,-6.292722222222217
+2022-05-18,wednesday,Newquay,E06000052,search-only,land,cancelled,south-west,1.0,50.3516666666666,-4.45
+2022-05-18,wednesday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,56.4305,-5.92166666666666
+2022-05-18,wednesday,Prestwick,S12000028,pre-arranged-transfer,land,terminated-prior-to-launch,highlands-and-islands,1.0,56.4305,-5.92166666666666
+2022-05-18,wednesday,Prestwick,S12000028,search-only,land,supported-completed,highlands-and-islands,2.0,56.519,-6.78666666666666
+2022-05-18,wednesday,Prestwick,S12000028,support,coast,cancelled,northern-ireland,0.0,54.0966666666666,-6.25666666666666
+2022-05-18,wednesday,St Athan,W06000015,rescue/recovery,maritime,supported-completed,south-west,3.0,49.7783333333333,-3.66
+2022-05-19,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.0661666666666,-4.05
+2022-05-19,thursday,Caernarfon,W06000002,support,land,terminated-prior-to-launch,wales,0.0,53.0661666666666,-4.05
+2022-05-19,thursday,Lydd,E04004358,support,land,terminated-en-route,east-of-england,0.0,51.6,0.868333333333333
+2022-05-19,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,5.0,54.5251666666666,-3.00566666666666
+2022-05-19,thursday,Prestwick,S12000028,support,coast,terminated-on-scene,eastern-scotland,2.0,56.0055,-2.51783333333333
+2022-05-20,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0629,-4.09963333333333
+2022-05-20,friday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,1.0,53.3461,-2.73898333333333
+2022-05-20,friday,Caernarfon,W06000002,support,land,terminated-en-route,wales,1.0,53.0628333333333,-4.0995
+2022-05-20,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.9518333333333,-6.289
+2022-05-20,friday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,0.0,50.7766666666666,-1.01216666666666
+2022-05-20,friday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.8944333333333,-6.3417
+2022-05-20,friday,Newquay,E06000052,support,coast,cancelled,south-west,0.0,51.1631666666666,-4.65583333333333
+2022-05-20,friday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,3.5,56.46199166666665,-5.3998166666666645
+2022-05-20,friday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,59.9967,-1.21125
+2022-05-21,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.07216666666665,-4.062666666666665
+2022-05-21,saturday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,60.1508333333333,-1.1625
+2022-05-21,saturday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,50.7365,0.241833333333333
+2022-05-21,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,50.6816666666666,-3.21716666666666
+2022-05-21,saturday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.13315,-5.6844
+2022-05-21,saturday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,3.0,56.3648333333333,-6.22490833333333
+2022-05-21,saturday,Prestwick,S12000028,search-only,land,terminated-on-scene,eastern-scotland,2.0,56.2089,-4.48928333333333
+2022-05-21,saturday,St Athan,W06000015,rescue/recovery,maritime,supported-completed,wales,3.0,52.165,-5.70333333333333
+2022-05-21,saturday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,59.2506666666666,-2.5785
+2022-05-21,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,58.4783333333333,1.26666666666666
+2022-05-22,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.4538666666666,-3.23541666666666
+2022-05-22,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0567333333333,-3.87698333333333
+2022-05-22,sunday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,52.8508333333333,2.436
+2022-05-22,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.432,-5.81666666666666
+2022-05-22,sunday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.7218333333333,-0.7995
+2022-05-22,sunday,Prestwick,S12000028,rescue/recovery,maritime,supported-completed,eastern-scotland,2.0,56.13805,-2.50445
+2022-05-22,sunday,Stornoway,S12000033,pre-arranged-transfer,land,declined,highlands-and-islands,0.0,57.4806666666666,-7.36483333333333
+2022-05-22,sunday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,57.4798333333333,-7.3635
+2022-05-22,sunday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,4.0,57.2396666666666,-5.84333333333333
+2022-05-23,monday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,8.0,58.957,-2.90566666666666
+2022-05-23,monday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,1.0,50.7795166666666,-0.68085
+2022-05-23,monday,Newquay,E06000052,search-only,coast,supported-completed,south-west,1.0,50.4295,-3.55283333333333
+2022-05-23,monday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,59.0201666666666,-3.36016666666666
+2022-05-23,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.3166666666666,-4.275
+2022-05-24,tuesday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,4.0,53.9026666666666,-4.48783333333333
+2022-05-24,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,4.0,51.8393333333333,1.7155
+2022-05-24,tuesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9654666666666,-6.29508333333333
+2022-05-24,tuesday,Prestwick,S12000028,rescue/recovery,land,terminated-on-scene,highlands-and-islands,2.0,56.4363333333333,-6.0485
+2022-05-25,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.6036333333333,-5.34568333333333
+2022-05-25,wednesday,Inverness,S12000027,support,land,terminated-on-scene,highlands-and-islands,1.0,57.5723333333333,-4.4345
+2022-05-25,wednesday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-east,2.0,50.885,-1.3965
+2022-05-25,wednesday,Newquay,E06000052,pre-arranged-transfer,land,supported-completed,south-west,2.0,49.916,-6.29616666666666
+2022-05-25,wednesday,St Athan,W06000015,search-only,coast,supported-completed,wales,2.0,51.6115,-4.89816666666666
+2022-05-25,wednesday,St Athan,W06000015,support,land,terminated-prior-to-launch,south-west,0.0,50.9941666666666,-4.4865
+2022-05-26,thursday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,5.0,52.7378333333333,-4.075
+2022-05-26,thursday,Caernarfon,W06000002,support,land,supported-completed,wales,2.0,53.0018333333333,-3.256
+2022-05-26,thursday,Humberside,E06000011,rescue/recovery,maritime,terminated-en-route,north-east,1.0,56.5545,2.6405
+2022-05-26,thursday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,eastern-scotland,1.0,56.0628333333333,-3.19483333333333
+2022-05-26,thursday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,3.0,52.0016666666666,-4.97316666666666
+2022-05-26,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,59.28,1.51666666666666
+2022-05-27,friday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,57.5923333333333,-4.11783333333333
+2022-05-27,friday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-west,6.0,50.4166666666666,-4.11366666666666
+2022-05-27,friday,Lydd,E04004358,support,land,terminated-en-route,south-east,0.0,51.4078333333333,0.532
+2022-05-27,friday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9141666666666,-6.29483333333333
+2022-05-27,friday,Newquay,E06000052,search-only,coast,diverted-/-suspended,south-west,1.0,50.4015,-3.48316666666666
+2022-05-27,friday,Prestwick,S12000028,rescue/recovery,maritime,supported-completed,north-east,3.0,55.893,-1.16466666666666
+2022-05-27,friday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,4.0,51.7836666666666,-3.56266666666666
+2022-05-27,friday,Stornoway,S12000033,search-only,coast,terminated-on-scene,highlands-and-islands,1.0,58.0078333333333,-5.43866666666666
+2022-05-28,saturday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,3.0,51.9371666666666,-5.2105
+2022-05-28,saturday,Caernarfon,W06000002,search-only,coast,terminated-prior-to-launch,north-west,0.0,53.6551666666666,-3.02233333333333
+2022-05-28,saturday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,1.0,57.19,-4.75683333333333
+2022-05-28,saturday,Newquay,E06000052,rescue/recovery,land,terminated-prior-to-launch,south-west,1.0,50.1768333333333,-5.11466666666666
+2022-05-28,saturday,Prestwick,S12000028,search-only,coast,supported-completed,northern-ireland,3.0,54.368,-5.5455
+2022-05-28,saturday,Prestwick,S12000028,support,land,supported-completed,northern-ireland,3.0,55.2353333333333,-6.51849999999999
+2022-05-29,sunday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,1.0,53.4873333333333,-3.06383333333333
+2022-05-29,sunday,Caernarfon,W06000002,support,land,cancelled,wales,0.0,52.8666666666666,-4.66666666666666
+2022-05-29,sunday,Caernarfon,W06000002,support,land,terminated-prior-to-launch,wales,0.0,52.7579666666666,-4.08345
+2022-05-29,sunday,Humberside,E06000011,rescue/recovery,land,supported-completed,east-midlands,2.0,53.3986666666666,-1.90066666666666
+2022-05-29,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.6541666666666,-4.9995
+2022-05-29,sunday,Newquay,E06000052,support,coast,terminated-prior-to-launch,south-west,0.0,50.3146666666666,-4.182
+2022-05-29,sunday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,2.0,56.4595,-5.40333333333333
+2022-05-29,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,57.536,-7.162
+2022-05-30,monday,Caernarfon,W06000002,search-only,land,terminated-on-scene,wales,1.0,53.10725,-4.03006666666666
+2022-05-30,monday,Caernarfon,W06000002,support,coast,terminated-prior-to-launch,wales,0.0,52.431,-4.0855
+2022-05-30,monday,Humberside,E06000011,support,land,terminated-en-route,west-midlands,1.0,52.89,-1.89666666666666
+2022-05-30,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.9142,-4.8938
+2022-05-30,monday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,3.0,56.441416666666655,-4.981249999999995
+2022-05-30,monday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.6966666666666,-1.29483333333333
+2022-05-30,monday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-east,1.0,50.7953333333333,-0.02625
+2022-05-30,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.6495166666666,-4.89349999999999
+2022-05-30,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,west-central-scotland,2.0,55.9946333333333,-4.22531666666666
+2022-05-30,monday,Prestwick,S12000028,search-only,land,supported-completed,highlands-and-islands,1.0,55.6308333333333,-5.19293333333333
+2022-05-30,monday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,57.346,-6.0655
+2022-05-30,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,5.0,58.8405,-2.68516666666666
+2022-05-31,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,52.6836166666666,-3.81951666666666
+2022-05-31,tuesday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-east,3.0,50.7824,0.0526333333333333
+2022-05-31,tuesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,50.0197166666666,-4.24555
+2022-05-31,tuesday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,56.51725,-5.91445
+2022-05-31,tuesday,Stornoway,S12000033,support,land,cancelled,highlands-and-islands,1.0,57.553091666666646,-5.953741666666666
+2022-05-31,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.5,59.7335833333333,1.4122501666666651
+2022-05-31,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,terminated-en-route,highlands-and-islands,1.0,61.3633333333333,1.58
+2022-06-01,wednesday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,3.0,52.4543333333333,-5.1025
+2022-06-01,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.6341666666666,-5.57633333333333
+2022-06-01,wednesday,Inverness,S12000027,support,coast,cancelled,eastern-scotland,1.0,56.5651666666666,-2.54333333333333
+2022-06-01,wednesday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-prior-to-launch,south-west,0.0,50.6226666666666,-2.27033333333333
+2022-06-01,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,56.49924999999995,-5.59908333333333
+2022-06-01,wednesday,Prestwick,S12000028,search-only,coast,terminated-on-scene,southern-scotland,3.0,54.8441666666666,-5.11783333333333
+2022-06-01,wednesday,Stornoway,S12000033,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,5.0,55.5388333333333,-5.12183333333333
+2022-06-02,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.105,-4.0045
+2022-06-02,thursday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-west,9.0,50.3901,-4.1415
+2022-06-02,thursday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,1.0,50.615,-2.1865
+2022-06-02,thursday,Lydd,E04004358,pre-arranged-transfer,land,supported-completed,london,6.0,51.524667,-0.1415
+2022-06-02,thursday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,1.0,50.7408333333333,0.256333333333333
+2022-06-02,thursday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,2.0,50.7398333333333,0.261833333333333
+2022-06-02,thursday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,3.0,49.9123333333333,-6.293
+2022-06-02,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.384,-4.79633333333333
+2022-06-02,thursday,St Athan,W06000015,rescue/recovery,coast,terminated-en-route,wales,1.0,52.0186666666666,-4.87966666666666
+2022-06-02,thursday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,2.0,51.2085,-4.05133333333333
+2022-06-02,thursday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,59.2678333333333,-2.87533333333333
+2022-06-02,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.3338333333333,-4.038
+2022-06-03,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.5130833333333,-3.089666666666665
+2022-06-03,friday,Caernarfon,W06000002,support,land,terminated-prior-to-launch,wales,0.0,52.9086666666666,-4.31366666666666
+2022-06-03,friday,Lee On Solent,E04012176,pre-arranged-transfer,land,declined,south-east,0.0,50.7101666666666,-1.29883333333333
+2022-06-03,friday,Newquay,E06000052,rescue/recovery,coast,terminated-on-scene,south-west,1.0,50.2216666666666,-3.82333333333333
+2022-06-03,friday,Newquay,E06000052,search-only,maritime,supported-completed,south-west,3.0,50.3345,-8.84333333333333
+2022-06-03,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,2.0,54.9621666666666,-4.35116666666666
+2022-06-03,friday,Prestwick,S12000028,support,coast,terminated-en-route,highlands-and-islands,2.0,58.3486666666666,-6.6695
+2022-06-03,friday,St Athan,W06000015,support,coast,terminated-prior-to-launch,south-west,0.0,50.4371666666666,-3.55433333333333
+2022-06-03,friday,St Athan,W06000015,support,maritime,terminated-prior-to-launch,south-west,0.0,50.0733333333333,-3.33
+2022-06-03,friday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,58.3486666666666,-6.6695
+2022-06-03,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.3166666666666,-4.275
+2022-06-03,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,3.0,58.4616666666666,0.251666666666666
+2022-06-04,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.333333333333333,57.02266666666666,-5.551055555555553
+2022-06-04,saturday,Lydd,E04004358,search-only,coast,terminated-on-scene,south-east,1.0,51.0753333333333,1.18483333333333
+2022-06-04,saturday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,northern-ireland,2.0,55.2293333333333,-6.2915
+2022-06-04,saturday,Prestwick,S12000028,rescue/recovery,land,cancelled,eastern-scotland,0.0,56.2773333333333,-4.6925
+2022-06-04,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.4275,-2.88533333333333
+2022-06-04,saturday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,west-central-scotland,0.0,56.297,-4.70616666666666
+2022-06-04,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.6436666666666,-4.76616666666666
+2022-06-04,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,58.3674333333333,-4.99183333333333
+2022-06-04,saturday,Stornoway,S12000033,support,coast,supported-completed,highlands-and-islands,1.0,58.2066666666666,-6.385
+2022-06-05,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,2.0,54.5116666666666,-3.26
+2022-06-05,sunday,Humberside,E06000011,rescue/recovery,land,cancelled,wales,0.0,53.1855,-2.945
+2022-06-05,sunday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,4.0,53.4871666666666,2.59083333333333
+2022-06-05,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.5,57.047166666666655,-5.025749999999995
+2022-06-05,sunday,Lydd,E04004358,search-only,land,supported-completed,south-east,2.0,51.3758333333333,0.474333333333333
+2022-06-05,sunday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,50.1936666666666,-5.821
+2022-06-05,sunday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,northern-ireland,4.0,55.2275,-6.15216666666666
+2022-06-05,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.4923333333333,-3.1625
+2022-06-05,sunday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,60.594,-0.862666666666666
+2022-06-05,sunday,Sumburgh,S12000017,search-only,land,terminated-en-route,highlands-and-islands,1.0,59.0733,-3.07266666666666
+2022-06-05,sunday,Sumburgh,S12000017,support,land,supported-completed,highlands-and-islands,2.0,60.278,-1.24783333333333
+2022-06-06,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.0783333333333,-4.0885
+2022-06-06,monday,Caernarfon,W06000002,rescue/recovery,land,terminated-prior-to-launch,wales,1.0,52.531,-3.66433333333333
+2022-06-06,monday,Caernarfon,W06000002,support,maritime,supported-completed,northern-ireland,2.0,53.9603333333333,-4.93216666666666
+2022-06-06,monday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,57.667,-4.0065
+2022-06-06,monday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,4.0,56.7333333333333,1.1
+2022-06-06,monday,Inverness,S12000027,search-only,land,terminated-en-route,highlands-and-islands,1.0,56.6793333333333,-5.0395
+2022-06-06,monday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,1.0,50.7101666666666,-1.29883333333333
+2022-06-06,monday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-east,2.0,50.7466666666666,-1.15166666666666
+2022-06-06,monday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-west,2.0,50.4581666666666,-3.49183333333333
+2022-06-06,monday,Newquay,E06000052,support,coast,supported-completed,south-west,3.0,50.0206166666666,-5.71488333333333
+2022-06-06,monday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,west-central-scotland,2.0,56.0795,-4.82
+2022-06-06,monday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.0394333333333,-5.43328333333333
+2022-06-06,monday,Sumburgh,S12000017,support,land,terminated-prior-to-launch,highlands-and-islands,1.0,60.6823333333333,-1.01333333333333
+2022-06-07,tuesday,Caernarfon,W06000002,rescue/recovery,land,terminated-prior-to-launch,wales,0.0,53.1501666666666,-3.0795
+2022-06-07,tuesday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,6.0,52.532,-3.66416666666666
+2022-06-07,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.885,-5.28508333333333
+2022-06-07,tuesday,Inverness,S12000027,support,coast,terminated-en-route,highlands-and-islands,1.0,56.9248333333333,-5.8735
+2022-06-07,tuesday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.348,-4.4435
+2022-06-07,tuesday,Prestwick,S12000028,support,coast,terminated-en-route,eastern-scotland,0.0,56.0376666666666,-3.13666666666666
+2022-06-07,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,7.0,57.2933333333333,1.65833333333333
+2022-06-08,wednesday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,52.4228333333333,-4.08666666666666
+2022-06-08,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,north-east,6.0,56.3066666666666,1.63333333333333
+2022-06-08,wednesday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,north-eastern-scotland,3.0,57.0766666666666,-0.6
+2022-06-08,wednesday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.7015,-4.22933333333333
+2022-06-08,wednesday,Newquay,E06000052,support,coast,supported-completed,south-west,2.0,50.096,-5.1085
+2022-06-08,wednesday,Prestwick,S12000028,search-only,land,terminated-on-scene,southern-scotland,3.0,55.5473333333333,-2.82883333333333
+2022-06-08,wednesday,Prestwick,S12000028,support,coast,supported-completed,highlands-and-islands,2.0,56.4585,-5.40333333333333
+2022-06-08,wednesday,St Athan,W06000015,support,land,terminated-prior-to-launch,south-west,0.0,50.5633333333333,-3.56166666666666
+2022-06-08,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,58.044,-5.20733333333333
+2022-06-08,wednesday,Sumburgh,S12000017,support,land,terminated-prior-to-launch,highlands-and-islands,0.0,60.476,-1.37416666666666
+2022-06-09,thursday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,1.0,53.7157166666666,-2.96668333333333
+2022-06-09,thursday,Humberside,E06000011,support,coast,terminated-prior-to-launch,yorkshire-and-the-humber,0.0,53.7811166666666,0.05945
+2022-06-09,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,58.115,-5.137
+2022-06-09,thursday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9133333333333,-6.29316666666666
+2022-06-09,thursday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,56.4004,-5.47491666666666
+2022-06-09,thursday,St Athan,W06000015,support,land,terminated-prior-to-launch,south-west,4.0,50.458,-3.52983333333333
+2022-06-10,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,3.0,56.8583333333333,-3.1495
+2022-06-10,friday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.121,-5.26166666666666
+2022-06-10,friday,Newquay,E06000052,support,coast,terminated-on-scene,south-west,3.0,50.1498333333333,-5.69266666666666
+2022-06-10,friday,Prestwick,S12000028,support,land,terminated-en-route,eastern-scotland,0.0,56.8583333333333,-3.1495
+2022-06-10,friday,St Athan,W06000015,support,land,supported-completed,wales,3.0,52.1065333333333,-4.70135
+2022-06-10,friday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,2.0,58.0383333333333,-5.071
+2022-06-10,friday,Sumburgh,S12000017,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,7.0,60.151,-1.15566666666666
+2022-06-11,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.1671666666666,-4.04633333333333
+2022-06-11,saturday,Caernarfon,W06000002,search-only,land,supported-completed,north-west,3.0,54.5843333333333,-3.1425
+2022-06-11,saturday,Caernarfon,W06000002,support,coast,supported-completed,wales,1.0,53.314,-4.1945
+2022-06-11,saturday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.7638333333333,0.166666666666666
+2022-06-11,saturday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,57.2788333333333,-5.51533333333333
+2022-06-11,saturday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,3.0,57.8556666666666,-4.88683333333333
+2022-06-11,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-east,2.0,50.7558333333333,0.1615
+2022-06-11,saturday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,2.0,50.8215,-0.311833333333333
+2022-06-11,saturday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,2.0,50.7348333333333,0.240333333333333
+2022-06-11,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,wales,3.0,51.6466666666666,-4.8285
+2022-06-11,saturday,Prestwick,S12000028,search-only,coast,supported-completed,eastern-scotland,2.0,56.0118,-3.63933333333333
+2022-06-11,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,1.0,51.404667,-3.5595
+2022-06-11,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,61.2583333333333,1.035
+2022-06-12,sunday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,3.0,52.1938333333333,-4.40216666666666
+2022-06-12,sunday,Caernarfon,W06000002,search-only,coast,supported-completed,north-west,2.0,53.6585333333333,-3.03195
+2022-06-12,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.0956666666666,-3.64016666666666
+2022-06-12,sunday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,3.0,57.4583333333333,-4.2485
+2022-06-12,sunday,Inverness,S12000027,support,coast,terminated-en-route,highlands-and-islands,2.0,55.7586666666666,-5.102
+2022-06-12,sunday,Lee On Solent,E04012176,rescue/recovery,land,supported-completed,south-east,2.0,50.6071666666666,-1.17583333333333
+2022-06-12,sunday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.772,-1.35333333333333
+2022-06-12,sunday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,51.1846666666666,1.406
+2022-06-12,sunday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.913858333333295,-6.29343333333333
+2022-06-12,sunday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,4.0,50.1613333333333,-5.6725
+2022-06-12,sunday,Newquay,E06000052,support,coast,terminated-on-scene,south-west,1.0,49.8940166666666,-6.32911666666666
+2022-06-12,sunday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,southern-scotland,4.0,54.828,-4.22133333333333
+2022-06-12,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,6.0,54.5253333333333,-3.01166666666666
+2022-06-12,sunday,Sumburgh,S12000017,search-only,maritime,supported-completed,highlands-and-islands,1.0,58.8883333333333,-1.09166666666666
+2022-06-12,sunday,Sumburgh,S12000017,support,land,terminated-on-scene,highlands-and-islands,4.0,59.1281666666666,-3.31
+2022-06-13,monday,Inverness,S12000027,search-only,coast,supported-completed,north-eastern-scotland,3.0,57.697,-2.29733333333333
+2022-06-13,monday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,2.0,50.7381666666666,0.215666666666666
+2022-06-13,monday,Newquay,E06000052,support,maritime,terminated-en-route,wales,1.0,51.00195,-5.97388333333333
+2022-06-13,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,4.0,54.4488333333333,-3.0995
+2022-06-13,monday,Stornoway,S12000033,support,maritime,cancelled,highlands-and-islands,1.0,58.2,-6.035
+2022-06-13,monday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,59.2497833333333,-2.57506666666666
+2022-06-13,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,60.82166666666664,1.2041666666666648
+2022-06-14,tuesday,Humberside,E06000011,rescue/recovery,land,supported-completed,east-midlands,2.0,53.168,-0.228833333333333
+2022-06-14,tuesday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,1.5,50.90517499999994,0.710491666666663
+2022-06-14,tuesday,Newquay,E06000052,search-only,maritime,terminated-on-scene,south-west,2.0,49.92,-4.36
+2022-06-14,tuesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,56.1563333333333,-5.0995
+2022-06-14,tuesday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,southern-scotland,1.0,54.8411666666666,-4.2815
+2022-06-14,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-on-scene,wales,0.0,51.469,-3.67716666666666
+2022-06-14,tuesday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,1.0,51.2315,-3.81316666666666
+2022-06-14,tuesday,Stornoway,S12000033,rescue/recovery,coast,cancelled,highlands-and-islands,0.0,58.14645,-5.24523333333333
+2022-06-15,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.8793,-3.39306666666666
+2022-06-15,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.7959333333333,-5.01125
+2022-06-15,wednesday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,1.0,50.6113333333333,1.05666666666666
+2022-06-15,wednesday,Lydd,E04004358,support,maritime,terminated-en-route,east-of-england,1.0,51.8278333333333,1.6995
+2022-06-15,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,2.0,55.5166666666666,-4.51666666666666
+2022-06-15,wednesday,St Athan,W06000015,rescue/recovery,coast,terminated-on-scene,wales,0.0,51.3841666666666,-3.28016666666666
+2022-06-15,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.5,59.2231666666666,0.05825
+2022-06-16,thursday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-prior-to-launch,south-west,0.0,50.7065,-1.745
+2022-06-16,thursday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,0.0,50.8733333333333,-1.37883333333333
+2022-06-16,thursday,Lydd,E04004358,support,coast,supported-completed,east-of-england,2.0,52.0345,1.45816666666666
+2022-06-16,thursday,St Athan,W06000015,rescue/recovery,coast,terminated-on-scene,wales,0.0,51.3833333333333,-3.36066666666666
+2022-06-16,thursday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,57.85124999999995,-6.87241666666666
+2022-06-16,thursday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,59.1903333333333,-2.77183333333333
+2022-06-17,friday,Caernarfon,W06000002,search-only,maritime,supported-completed,north-west,2.0,53.9111666666666,-3.22783333333333
+2022-06-17,friday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,53.3436666666666,-3.40433333333333
+2022-06-17,friday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.3578333333333,2.56716666666666
+2022-06-17,friday,Humberside,E06000011,support,coast,terminated-en-route,east-of-england,0.0,52.8668333333333,1.50866666666666
+2022-06-17,friday,Humberside,E06000011,support,coast,terminated-on-scene,north-east,2.0,54.5875,-0.939833333333333
+2022-06-17,friday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-west,1.0,50.6220666666666,-2.27701666666666
+2022-06-17,friday,Lydd,E04004358,support,coast,terminated-en-route,east-of-england,0.0,52.179,1.62166666666666
+2022-06-17,friday,Lydd,E04004358,support,coast,terminated-prior-to-launch,east-of-england,0.0,52.8668333333333,1.50866666666666
+2022-06-17,friday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,50.8143333333333,-0.134766666666666
+2022-06-17,friday,Newquay,E06000052,support,land,terminated-en-route,south-west,0.0,50.2777166666666,-5.24923333333333
+2022-06-17,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,4.0,54.4893333333333,-3.24816666666666
+2022-06-17,friday,Prestwick,S12000028,support,coast,terminated-en-route,eastern-scotland,0.0,56.0381666666666,-3.18166666666666
+2022-06-17,friday,Stornoway,S12000033,support,coast,terminated-on-scene,highlands-and-islands,2.0,58.46,-4.73166666666666
+2022-06-18,saturday,Caernarfon,W06000002,support,land,terminated-prior-to-launch,wales,0.0,53.1423333333333,-4.405
+2022-06-18,saturday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.9263333333333,1.1285
+2022-06-18,saturday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,57.9057666666666,-5.16606666666666
+2022-06-18,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.5806666666666,-1.94183333333333
+2022-06-18,saturday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-east,0.0,50.7838333333333,-1.04516666666666
+2022-06-18,saturday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-west,0.0,50.6260666666666,-2.43961666666666
+2022-06-18,saturday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.82345,-0.199716666666666
+2022-06-18,saturday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,2.0,50.7413333333333,0.262166666666666
+2022-06-18,saturday,Prestwick,S12000028,rescue/recovery,land,terminated-on-scene,highlands-and-islands,2.0,58.2061666666666,-5.04466666666666
+2022-06-18,saturday,Prestwick,S12000028,search-only,land,terminated-on-scene,north-east,4.0,54.9690666666666,-1.59853333333333
+2022-06-18,saturday,Prestwick,S12000028,support,coast,terminated-en-route,north-east,1.0,54.9725,-1.37183333333333
+2022-06-18,saturday,St Athan,W06000015,search-only,coast,terminated-on-scene,south-west,3.0,50.7165,-2.83883333333333
+2022-06-18,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,9.0,58.2061666666666,-5.04466666666666
+2022-06-19,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,52.4769833333333,-3.86693333333333
+2022-06-19,sunday,Caernarfon,W06000002,support,coast,terminated-en-route,wales,0.0,53.3353333333333,-3.87266666666666
+2022-06-19,sunday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,2.0,50.7356666666666,0.243333333333333
+2022-06-19,sunday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,50.3493333333333,-3.5041
+2022-06-19,sunday,Prestwick,S12000028,support,coast,terminated-en-route,northern-ireland,1.0,54.43,-5.421
+2022-06-19,sunday,St Athan,W06000015,search-only,coast,terminated-on-scene,wales,2.0,51.89,-5.29833333333333
+2022-06-19,sunday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,59.9983333333333,-1.16833333333333
+2022-06-20,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,52.7688333333333,-4.04833333333333
+2022-06-20,monday,Inverness,S12000027,rescue/recovery,land,terminated-on-scene,highlands-and-islands,1.0,57.0028333333333,-4.17483333333333
+2022-06-20,monday,Lee On Solent,E04012176,search-only,coast,terminated-en-route,south-east,0.0,50.7816666666666,-1.00133333333333
+2022-06-20,monday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.5768333333333,-6.31166666666666
+2022-06-20,monday,Prestwick,S12000028,support,land,supported-completed,highlands-and-islands,2.0,56.2321666666666,-4.97483333333333
+2022-06-20,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,59.5885,1.05483333333333
+2022-06-21,tuesday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,3.0,53.31895,-4.10918333333333
+2022-06-21,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0743333333333,-4.05833333333333
+2022-06-21,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.9616666666666,1.75
+2022-06-21,tuesday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,57.5231666666666,-3.95
+2022-06-21,tuesday,Lydd,E04004358,rescue/recovery,coast,supported-completed,east-of-england,4.0,51.5022166666666,0.636383333333333
+2022-06-21,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,3.0,51.3986,-3.19878333333333
+2022-06-21,tuesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.9736666666666,-5.628
+2022-06-21,tuesday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,1.0,57.8106666666666,-7.33566666666666
+2022-06-22,wednesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,4.0,54.4440333333333,-3.13871666666666
+2022-06-22,wednesday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.5333333333333,-5.48333333333333
+2022-06-22,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.7972,-5.01406666666666
+2022-06-22,wednesday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,1.0,50.7666666666666,-1.01666666666666
+2022-06-22,wednesday,Lydd,E04004358,search-only,maritime,terminated-on-scene,south-east,1.0,51.0648333333333,1.3795
+2022-06-22,wednesday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,50.7666666666666,-0.905
+2022-06-22,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,56.39971666666665,-6.466649999999995
+2022-06-22,wednesday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,2.0,50.8279166666666,-2.85183333333333
+2022-06-22,wednesday,St Athan,W06000015,support,coast,supported-completed,wales,2.0,51.56555,-4.30261666666666
+2022-06-22,wednesday,Stornoway,S12000033,rescue/recovery,land,terminated-en-route,highlands-and-islands,0.0,57.5833333333333,-6.35
+2022-06-23,thursday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,3.0,54.0286666666666,1.015
+2022-06-23,thursday,Humberside,E06000011,search-only,coast,supported-completed,yorkshire-and-the-humber,2.0,53.7033333333333,-0.592166666666666
+2022-06-23,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,north-west,3.0,54.7435166666666,-3.45548333333333
+2022-06-23,thursday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,57.7651666666666,-7.08033333333333
+2022-06-24,friday,Caernarfon,W06000002,search-only,land,terminated-on-scene,north-west,2.0,53.7362833333333,-2.86103333333333
+2022-06-24,friday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.8343333333333,1.978
+2022-06-24,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.9676666666666,-5.32783333333333
+2022-06-24,friday,St Athan,W06000015,rescue/recovery,coast,terminated-en-route,wales,0.0,51.3878333333333,-3.27166666666666
+2022-06-25,saturday,Inverness,S12000027,support,land,supported-completed,north-eastern-scotland,1.0,57.6863333333333,-2.7
+2022-06-25,saturday,Inverness,S12000027,support,land,terminated-en-route,eastern-scotland,0.0,56.3031666666666,-2.635
+2022-06-25,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.582,-1.94266666666666
+2022-06-25,saturday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-west,1.0,50.6045,-2.3265
+2022-06-25,saturday,Lydd,E04004358,rescue/recovery,coast,terminated-en-route,east-of-england,1.0,51.5,0.8
+2022-06-25,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,3.0,55.9436666666666,-3.15433333333333
+2022-06-25,saturday,Prestwick,S12000028,rescue/recovery,maritime,terminated-on-scene,northern-ireland,3.0,55.0668333333333,-5.61583333333333
+2022-06-25,saturday,St Athan,W06000015,support,land,terminated-en-route,west-midlands,1.0,52.1666666666666,-1.46666666666666
+2022-06-25,saturday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,57.8792,-6.95125
+2022-06-25,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,5.0,59.3596666666666,1.56816666666666
+2022-06-26,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.743,-6.1915
+2022-06-26,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,4.0,57.2405,-2.5665
+2022-06-26,sunday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-prior-to-launch,south-west,0.0,51.4401666666666,-2.866
+2022-06-26,sunday,Lydd,E04004358,support,land,terminated-prior-to-launch,south-east,0.0,50.9013333333333,-1.387
+2022-06-26,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,northern-ireland,3.0,55.1073333333333,-6.22033333333333
+2022-06-26,sunday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,2.0,51.4401666666666,-2.866
+2022-06-26,sunday,St Athan,W06000015,support,coast,supported-completed,south-west,2.0,51.2325,-3.85616666666666
+2022-06-26,sunday,St Athan,W06000015,support,coast,supported-completed,wales,1.0,51.6055,-3.96
+2022-06-26,sunday,St Athan,W06000015,support,land,diverted-/-suspended,south-east,0.0,50.9013333333333,-1.387
+2022-06-26,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.2073166666666,-6.18118333333333
+2022-06-26,sunday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,2.0,58.5748,-4.7418
+2022-06-26,sunday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,17.0,59.8797166666666,-1.29576666666666
+2022-06-27,monday,Caernarfon,W06000002,rescue/recovery,coast,terminated-on-scene,wales,1.0,53.4235,-4.36533333333333
+2022-06-27,monday,Newquay,E06000052,support,coast,terminated-prior-to-launch,south-west,0.0,51.0423333333333,-4.24661666666666
+2022-06-27,monday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,56.8376666666666,-5.06866666666666
+2022-06-27,monday,Prestwick,S12000028,support,land,terminated-en-route,north-west,1.0,54.4370666666666,-3.20715
+2022-06-27,monday,Stornoway,S12000033,support,coast,terminated-en-route,highlands-and-islands,0.0,57.8735166666666,-4.01633333333333
+2022-06-27,monday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,58.9553333333333,-2.70916666666666
+2022-06-28,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.4716666666666,-3.2375
+2022-06-28,tuesday,Humberside,E06000011,support,coast,terminated-en-route,north-east,1.0,54.6586833333333,-1.17686666666666
+2022-06-28,tuesday,Inverness,S12000027,rescue/recovery,land,terminated-en-route,highlands-and-islands,0.0,56.2661666666666,-4.81916666666666
+2022-06-28,tuesday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.78225,0.04735
+2022-06-28,tuesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,4.0,49.9133333333333,-6.29316666666666
+2022-06-28,tuesday,Prestwick,S12000028,support,land,terminated-en-route,highlands-and-islands,2.0,57.1731166666666,-4.79203333333333
+2022-06-28,tuesday,Prestwick,S12000028,support,land,terminated-on-scene,eastern-scotland,1.0,56.0585166666666,-3.26856666666666
+2022-06-28,tuesday,St Athan,W06000015,support,coast,supported-completed,south-west,2.0,50.5921666666666,-3.44383333333333
+2022-06-28,tuesday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,60.7973333333333,-0.820499999999999
+2022-06-29,wednesday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,1.0,53.7106666666666,-3.021
+2022-06-29,wednesday,Caernarfon,W06000002,support,coast,terminated-en-route,southern-scotland,1.0,54.4183333333333,-4.29833333333333
+2022-06-29,wednesday,Inverness,S12000027,support,land,terminated-prior-to-launch,north-eastern-scotland,0.0,56.8940666666666,-2.21665
+2022-06-29,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.7065,-1.289
+2022-06-29,wednesday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.6238333333333,-2.29816666666666
+2022-06-29,wednesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.8941666666666,-1.40516666666666
+2022-06-29,wednesday,Lydd,E04004358,support,coast,terminated-en-route,east-of-england,1.0,51.939,1.23616666666666
+2022-06-29,wednesday,Newquay,E06000052,pre-arranged-transfer,land,supported-completed,south-west,2.0,49.9155,-6.29683333333333
+2022-06-29,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.844,-1.4135
+2022-06-30,thursday,Caernarfon,W06000002,support,coast,supported-completed,wales,2.0,52.4066666666666,-4.09183333333333
+2022-06-30,thursday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,north-eastern-scotland,8.0,57.152,-2.1355
+2022-06-30,thursday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.703,-1.30333333333333
+2022-06-30,thursday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-en-route,south-west,1.0,50.5156666666666,-2.45333333333333
+2022-07-01,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.1231666666666,-3.93216666666666
+2022-07-01,friday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,3.0,49.2076666666666,-2.24166666666666
+2022-07-01,friday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.5,51.5496666666666,-4.333749999999995
+2022-07-01,friday,Stornoway,S12000033,pre-arranged-transfer,land,cancelled,highlands-and-islands,1.0,58.221,-6.38333333333333
+2022-07-01,friday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.8113333333333,-8.56983333333333
+2022-07-02,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0488333333333,-4.081
+2022-07-02,saturday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,58.3304583333333,-4.74035
+2022-07-02,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,2.0,57.0645,-3.672
+2022-07-02,saturday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-east,2.0,50.4416666666666,-1.648
+2022-07-02,saturday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.333333333333333,50.12399999999997,-5.4787222222222205
+2022-07-02,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.4938333333333,-3.2615
+2022-07-02,saturday,Prestwick,S12000028,rescue/recovery,land,terminated-on-scene,southern-scotland,1.0,54.304,-4.40966666666666
+2022-07-02,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.975,-6.29333333333333
+2022-07-03,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.5,53.04874999999995,-4.01108333333333
+2022-07-03,sunday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,2.0,53.3916666666666,-5.365
+2022-07-03,sunday,Humberside,E06000011,rescue/recovery,coast,terminated-on-scene,east-midlands,1.0,53.191,0.358833333333333
+2022-07-03,sunday,Humberside,E06000011,rescue/recovery,land,supported-completed,east-midlands,3.0,53.3833333333333,-1.81666666666666
+2022-07-03,sunday,Humberside,E06000011,rescue/recovery,land,terminated-on-scene,yorkshire-and-the-humber,1.0,54.4296666666666,-0.532333333333333
+2022-07-03,sunday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,55.95074999999995,-5.99625
+2022-07-03,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,west-central-scotland,2.0,55.9945,-4.22683333333333
+2022-07-03,sunday,Prestwick,S12000028,support,land,supported-completed,highlands-and-islands,7.5,56.4995,-6.86883333333333
+2022-07-04,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,4.0,53.0723,-4.0762
+2022-07-04,monday,Caernarfon,W06000002,search-only,land,supported-completed,north-west,4.0,54.45,-3.2
+2022-07-04,monday,Caernarfon,W06000002,support,land,terminated-en-route,wales,1.0,53.0535,-3.90216666666666
+2022-07-04,monday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,4.0,53.985,1.22666666666666
+2022-07-04,monday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,56.5166666666666,-5.91283333333333
+2022-07-04,monday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-west,2.0,50.2705,-1.926
+2022-07-04,monday,Newquay,E06000052,pre-arranged-transfer,coast,diverted-/-suspended,south-west,1.0,49.9141666666666,-6.29483333333333
+2022-07-04,monday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,5.0,49.9141666666666,-6.29483333333333
+2022-07-04,monday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.1833333333333,-5.55
+2022-07-04,monday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,55.6546666666666,-5.74816666666666
+2022-07-04,monday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,north-west,21.0,54.45,-3.2
+2022-07-04,monday,Prestwick,S12000028,search-only,land,supported-completed,north-west,5.0,54.454,-3.21216666666666
+2022-07-04,monday,Prestwick,S12000028,search-only,maritime,supported-completed,north-west,2.0,54.0,-3.21216666666666
+2022-07-04,monday,Prestwick,S12000028,support,coast,terminated-en-route,north-east,1.0,55.1833333333333,-1.50833333333333
+2022-07-04,monday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,5.0,52.7793333333333,-3.95983333333333
+2022-07-04,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.945,1.56333333333333
+2022-07-05,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,5.0,54.29,0.521666666666666
+2022-07-05,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.6663166666666,-4.04771666666666
+2022-07-05,tuesday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-en-route,south-west,0.0,50.6166666666666,-2.43333333333333
+2022-07-05,tuesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,3.0,50.15,-6.01666666666666
+2022-07-05,tuesday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,5.0,56.4655,-5.3975
+2022-07-05,tuesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,yorkshire-and-the-humber,4.0,53.587333,-0.0185
+2022-07-05,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-en-route,south-west,0.0,50.6166666666666,-2.43333333333333
+2022-07-05,tuesday,St Athan,W06000015,support,coast,terminated-en-route,south-west,0.0,51.2105,-3.44433333333333
+2022-07-05,tuesday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,57.025916666666646,-6.990749999999995
+2022-07-05,tuesday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,8.0,56.5915,-6.63123333333333
+2022-07-06,wednesday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,53.2813333333333,-4.63833333333333
+2022-07-06,wednesday,Lydd,E04004358,search-only,maritime,terminated-on-scene,south-east,1.0,50.73,1.355
+2022-07-06,wednesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,3.0,49.9928333333333,-6.9325
+2022-07-06,wednesday,Newquay,E06000052,support,coast,terminated-en-route,south-west,1.0,50.0492166666666,-5.60671666666666
+2022-07-06,wednesday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.72005,-3.05816666666666
+2022-07-06,wednesday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,57.4259833333333,-6.78303333333333
+2022-07-07,thursday,Inverness,S12000027,support,coast,terminated-on-scene,highlands-and-islands,1.0,57.8691666666666,-4.00583333333333
+2022-07-07,thursday,Lee On Solent,E04012176,search-only,coast,terminated-on-scene,south-east,2.0,50.785,-1.1705
+2022-07-07,thursday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,2.0,51.3835,1.465
+2022-07-07,thursday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,11.0,56.5171666666666,-5.91433333333333
+2022-07-07,thursday,Prestwick,S12000028,pre-arranged-transfer,land,terminated-prior-to-launch,highlands-and-islands,1.0,56.5171666666666,-5.91433333333333
+2022-07-07,thursday,St Athan,W06000015,search-only,coast,supported-completed,south-west,3.0,51.6423333333333,-2.63216666666666
+2022-07-08,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.0,53.0716666666666,-4.05666666666666
+2022-07-08,friday,Prestwick,S12000028,pre-arranged-transfer,land,terminated-en-route,highlands-and-islands,1.0,55.7556666666666,-6.27916666666666
+2022-07-08,friday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,eastern-scotland,0.0,56.024,-2.51783333333333
+2022-07-08,friday,Prestwick,S12000028,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,56.4328333333333,-6.34066666666666
+2022-07-08,friday,Prestwick,S12000028,rescue/recovery,maritime,terminated-en-route,highlands-and-islands,1.0,56.4328333333333,-6.34066666666666
+2022-07-08,friday,Stornoway,S12000033,rescue/recovery,coast,terminated-en-route,highlands-and-islands,1.0,57.026,-7.38966666666666
+2022-07-09,saturday,Caernarfon,W06000002,search-only,land,terminated-prior-to-launch,north-west,1.0,53.6236666666666,-3.04161666666666
+2022-07-09,saturday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,0.0,53.8271666666666,-3.05733333333333
+2022-07-09,saturday,Caernarfon,W06000002,support,land,supported-completed,wales,2.0,53.07,-4.055
+2022-07-09,saturday,Humberside,E06000011,support,land,terminated-en-route,yorkshire-and-the-humber,0.0,53.7776666666666,-1.97783333333333
+2022-07-09,saturday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,56.4003333333333,-5.47483333333333
+2022-07-09,saturday,Inverness,S12000027,support,land,diverted-/-suspended,highlands-and-islands,1.0,56.7833333333333,-5.02
+2022-07-09,saturday,Lee On Solent,E04012176,rescue/recovery,land,supported-completed,south-east,2.0,50.75095,-1.34365
+2022-07-09,saturday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,1.0,50.7486666666666,-1.34933333333333
+2022-07-09,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.8923333333333,-6.35116666666666
+2022-07-09,saturday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,5.0,49.3958333333333,-9.2455
+2022-07-09,saturday,Newquay,E06000052,search-only,coast,supported-completed,south-west,5.0,50.0562166666666,-5.28025
+2022-07-09,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,3.0,56.28,-4.29
+2022-07-09,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,10.0,56.7973333333333,-5.17116666666666
+2022-07-09,saturday,Prestwick,S12000028,search-only,land,supported-completed,eastern-scotland,1.0,56.35,-4.69266666666666
+2022-07-09,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,5.0,49.9125,-6.29166666666666
+2022-07-09,saturday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,57.2526666666666,-5.8295
+2022-07-09,saturday,Stornoway,S12000033,rescue/recovery,coast,terminated-on-scene,highlands-and-islands,2.0,57.8083333333333,-8.55183333333333
+2022-07-10,sunday,Caernarfon,W06000002,rescue/recovery,land,diverted-/-suspended,north-west,0.5,54.61424999999995,-2.985666666666665
+2022-07-10,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.3693333333333,-3.13583333333333
+2022-07-10,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0978333333333,-4.10016666666666
+2022-07-10,sunday,Humberside,E06000011,support,land,terminated-prior-to-launch,east-of-england,0.0,52.5694833333333,1.73349999999999
+2022-07-10,sunday,Inverness,S12000027,support,land,terminated-on-scene,highlands-and-islands,3.0,56.682,-5.00516666666666
+2022-07-10,sunday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,5.0,49.208,-2.19516666666666
+2022-07-10,sunday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.7348333333333,-1.14666666666666
+2022-07-10,sunday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,2.0,51.3798333333333,1.19883333333333
+2022-07-10,sunday,Lydd,E04004358,rescue/recovery,coast,terminated-prior-to-launch,south-east,0.0,50.73515,0.244166666666666
+2022-07-10,sunday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,3.0,51.2173333333333,-3.568
+2022-07-10,sunday,St Athan,W06000015,rescue/recovery,land,terminated-on-scene,south-west,1.0,50.4575,-3.53966666666666
+2022-07-10,sunday,Stornoway,S12000033,support,coast,terminated-on-scene,highlands-and-islands,0.0,58.2775,-6.79166666666666
+2022-07-10,sunday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,7.0,60.1508333333333,-1.1625
+2022-07-10,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.175,1.39583333333333
+2022-07-11,monday,Caernarfon,W06000002,rescue/recovery,land,terminated-prior-to-launch,wales,0.0,53.128,-4.12966666666666
+2022-07-11,monday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,north-west,2.0,53.4743333333333,-3.42933333333333
+2022-07-11,monday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,4.0,53.99,-4.435
+2022-07-11,monday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,58.5998333333333,-3.53133333333333
+2022-07-11,monday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,highlands-and-islands,9.0,58.6916666666666,1.28166666666666
+2022-07-11,monday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.7378333333333,0.213833333333333
+2022-07-11,monday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,southern-scotland,0.0,55.0,-4.7245
+2022-07-11,monday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,2.0,51.608,-2.64116666666666
+2022-07-11,monday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,52.25,-3.71666666666666
+2022-07-11,monday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,3.0,57.5298333333333,-5.69983333333333
+2022-07-11,monday,Sumburgh,S12000017,rescue/recovery,maritime,cancelled,north-eastern-scotland,1.0,58.3666666666666,0.0733333333333333
+2022-07-12,tuesday,Caernarfon,W06000002,search-only,land,supported-completed,wales,2.0,53.1816666666666,-2.935
+2022-07-12,tuesday,Caernarfon,W06000002,support,coast,supported-completed,north-west,1.0,53.75,-3.04166666666666
+2022-07-12,tuesday,Humberside,E06000011,rescue/recovery,coast,supported-completed,yorkshire-and-the-humber,3.0,54.1123333333333,-0.0785
+2022-07-12,tuesday,Humberside,E06000011,support,maritime,terminated-en-route,north-east,2.0,56.0841666666666,2.56333333333333
+2022-07-12,tuesday,Inverness,S12000027,search-only,coast,supported-completed,highlands-and-islands,2.0,57.4993333333333,-4.22983333333333
+2022-07-12,tuesday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.7101666666666,-1.29883333333333
+2022-07-12,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,5.0,53.087333,2.123333
+2022-07-12,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,south-east,3.0,51.3813333333333,1.88166666666666
+2022-07-12,tuesday,Prestwick,S12000028,rescue/recovery,coast,terminated-prior-to-launch,northern-ireland,0.0,54.6938333333333,-5.8545
+2022-07-13,wednesday,Caernarfon,W06000002,search-only,coast,supported-completed,wales,2.0,53.2159166666666,-4.18983333333333
+2022-07-13,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,58.0083333333333,-6.95
+2022-07-13,wednesday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,2.0,50.7445,0.199833333333333
+2022-07-13,wednesday,Lydd,E04004358,support,land,terminated-prior-to-launch,south-east,0.0,51.3810333333333,0.48745
+2022-07-13,wednesday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,3.0,50.0833333333333,-5.68333333333333
+2022-07-13,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,58.0,-6.95
+2022-07-14,thursday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,1.0,52.802,-4.64483333333333
+2022-07-14,thursday,Caernarfon,W06000002,rescue/recovery,land,terminated-en-route,wales,0.0,53.133,-4.14633333333333
+2022-07-14,thursday,Caernarfon,W06000002,support,coast,supported-completed,wales,3.0,53.292,-3.83933333333333
+2022-07-14,thursday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-east,0.0,50.8968333333333,-1.40983333333333
+2022-07-14,thursday,Lydd,E04004358,rescue/recovery,land,supported-completed,south-west,4.0,51.5,-1.67
+2022-07-14,thursday,Lydd,E04004358,search-only,land,terminated-on-scene,south-east,2.0,50.8183333333333,-0.573333333333333
+2022-07-14,thursday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9134,-6.29185
+2022-07-14,thursday,Newquay,E06000052,rescue/recovery,maritime,terminated-en-route,south-west,0.0,49.97,-5.62
+2022-07-14,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.654,-3.49716666666666
+2022-07-14,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,2.0,55.0,-4.66916666666666
+2022-07-14,thursday,Prestwick,S12000028,search-only,coast,supported-completed,highlands-and-islands,0.0,55.7208333333333,-5.27766666666666
+2022-07-14,thursday,Prestwick,S12000028,support,land,supported-completed,highlands-and-islands,4.0,55.3167,-5.63753333333333
+2022-07-14,thursday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.418,-6.19683333333333
+2022-07-14,thursday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,58.9568333333333,-2.90566666666666
+2022-07-14,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,1.0,60.4250666666666,-0.750466666666666
+2022-07-15,friday,Inverness,S12000027,support,coast,supported-completed,highlands-and-islands,3.0,57.593,-3.85016666666666
+2022-07-15,friday,Inverness,S12000027,support,coast,terminated-on-scene,highlands-and-islands,1.0,57.5908333333333,-3.87016666666666
+2022-07-15,friday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-east,2.0,50.7558333333333,-0.735
+2022-07-15,friday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,50.9306666666666,0.7885
+2022-07-15,friday,Newquay,E06000052,search-only,maritime,terminated-on-scene,south-west,2.0,49.9683333333333,-7.13166666666666
+2022-07-15,friday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,58.9569166666666,-2.9057
+2022-07-15,friday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,60.3228166666666,-1.69041666666666
+2022-07-15,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,61.1033333333333,1.07333333333333
+2022-07-16,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.333333333333333,53.08145555555554,-4.07101666666666
+2022-07-16,saturday,Inverness,S12000027,rescue/recovery,coast,supported-completed,eastern-scotland,2.0,56.6750833333333,-2.4667
+2022-07-16,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,1.5,56.796833333333296,-5.0259999999999945
+2022-07-16,saturday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,5.0,50.7676666666666,-1.29933333333333
+2022-07-16,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,1.0,50.0071666666666,-5.133
+2022-07-16,saturday,Newquay,E06000052,support,coast,terminated-on-scene,south-west,0.0,50.4910833333333,-5.03533333333333
+2022-07-16,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,3.0,54.518,-3.00716666666666
+2022-07-16,saturday,Prestwick,S12000028,search-only,land,supported-completed,northern-ireland,3.0,54.6691666666666,-5.64349999999999
+2022-07-16,saturday,St Athan,W06000015,rescue/recovery,coast,terminated-prior-to-launch,south-west,0.0,50.0071666666666,-5.133
+2022-07-16,saturday,Stornoway,S12000033,support,land,terminated-on-scene,highlands-and-islands,1.0,57.6376666666666,-6.2725
+2022-07-16,saturday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,60.5946333333333,-1.0616
+2022-07-17,sunday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,4.0,53.2202166666666,-4.51776666666666
+2022-07-17,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,3.0,54.5223333333333,-2.90683333333333
+2022-07-17,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.08349999999995,-4.073
+2022-07-17,sunday,Caernarfon,W06000002,support,coast,diverted-/-suspended,wales,1.0,53.2201666666666,-4.51766666666666
+2022-07-17,sunday,Caernarfon,W06000002,support,coast,terminated-on-scene,north-west,1.0,53.6070333333333,-3.06243333333333
+2022-07-17,sunday,Humberside,E06000011,support,land,terminated-en-route,north-east,1.0,54.5686666666666,-1.08616666666666
+2022-07-17,sunday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,6.0,56.8376666666666,-5.06866666666666
+2022-07-17,sunday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.5,50.7602583333333,0.2983499999999994
+2022-07-17,sunday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.8941833333333,-6.34863333333333
+2022-07-17,sunday,Newquay,E06000052,search-only,coast,terminated-on-scene,south-west,1.0,51.0441666666666,-4.24383333333333
+2022-07-17,sunday,Newquay,E06000052,support,coast,diverted-/-suspended,south-west,0.0,49.8941833333333,-6.34863333333333
+2022-07-17,sunday,Newquay,E06000052,support,coast,terminated-en-route,south-west,1.0,50.0925833333333,-5.42258333333333
+2022-07-17,sunday,Prestwick,S12000028,search-only,coast,supported-completed,eastern-scotland,2.0,56.0011666666666,-3.403
+2022-07-17,sunday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,2.0,51.0441666666666,-4.24383333333333
+2022-07-17,sunday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,4.0,52.6928333333333,-3.8845
+2022-07-17,sunday,St Athan,W06000015,support,land,terminated-en-route,wales,2.0,53.0761666666666,-4.054
+2022-07-18,monday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,2.0,54.5520666666666,-3.59865
+2022-07-18,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,3.0,57.0141666666666,-3.2975
+2022-07-18,monday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-on-scene,south-east,0.0,50.6518333333333,-1.15666666666666
+2022-07-18,monday,Lee On Solent,E04012176,support,coast,supported-completed,south-east,1.0,50.78,-0.967666666666666
+2022-07-18,monday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-east,0.0,50.79,-1.10933333333333
+2022-07-18,monday,Lydd,E04004358,support,coast,supported-completed,south-east,2.0,50.7346666666666,0.0736666666666666
+2022-07-18,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.9461333333333,-6.33101666666666
+2022-07-18,monday,Sumburgh,S12000017,rescue/recovery,coast,cancelled,highlands-and-islands,1.0,59.2435,-2.57666666666666
+2022-07-19,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0668333333333,-4.07283333333333
+2022-07-19,tuesday,Caernarfon,W06000002,search-only,coast,supported-completed,north-west,3.0,53.4575,-3.11766666666666
+2022-07-19,tuesday,Humberside,E06000011,support,coast,terminated-prior-to-launch,east-of-england,0.0,52.9492333333333,0.491666666666666
+2022-07-19,tuesday,Humberside,E06000011,support,land,terminated-on-scene,yorkshire-and-the-humber,1.0,53.839,-0.386
+2022-07-19,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.4321666666666,-5.031
+2022-07-19,tuesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,1.0,50.8046666666666,-0.384
+2022-07-19,tuesday,Lee On Solent,E04012176,support,land,terminated-en-route,south-east,0.0,50.8341666666666,-0.469166666666666
+2022-07-19,tuesday,Lydd,E04004358,search-only,coast,supported-completed,east-of-england,2.0,51.7874333333333,1.16216666666666
+2022-07-19,tuesday,Lydd,E04004358,support,coast,cancelled,south-east,0.0,51.0823333333333,1.19633333333333
+2022-07-19,tuesday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,50.7991666666666,-0.0405
+2022-07-19,tuesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,5.0,56.55295,-5.09606666666666
+2022-07-19,tuesday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,highlands-and-islands,1.0,56.4321666666666,-5.031
+2022-07-19,tuesday,St Athan,W06000015,support,land,terminated-on-scene,wales,2.0,51.6321166666666,-2.66745
+2022-07-19,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.5,60.254000000000005,1.129666666666663
+2022-07-20,wednesday,Caernarfon,W06000002,search-only,land,supported-completed,west-midlands,1.0,52.4818333333333,-3.15
+2022-07-20,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,cancelled,south-west,1.0,49.2073333333333,-2.19633333333333
+2022-07-20,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,12.0,49.2073333333333,-2.19633333333333
+2022-07-20,wednesday,Lydd,E04004358,support,maritime,supported-completed,south-east,2.0,51.3233333333333,1.52133333333333
+2022-07-20,wednesday,Prestwick,S12000028,rescue/recovery,coast,terminated-prior-to-launch,highlands-and-islands,0.0,56.1965,-4.76
+2022-07-20,wednesday,Prestwick,S12000028,support,coast,terminated-en-route,eastern-scotland,1.0,55.9453333333333,-3.07266666666666
+2022-07-20,wednesday,St Athan,W06000015,support,coast,terminated-prior-to-launch,wales,0.0,51.6761666666666,-4.25033333333333
+2022-07-20,wednesday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,57.813,-8.56133333333333
+2022-07-21,thursday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.3033333333333,2.5
+2022-07-21,thursday,Humberside,E06000011,search-only,coast,supported-completed,yorkshire-and-the-humber,2.0,53.7255,-0.373666666666666
+2022-07-21,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,55.5171666666666,-5.06128333333333
+2022-07-21,thursday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,2.0,57.5891666666666,-5.57916666666666
+2022-07-22,friday,Caernarfon,W06000002,support,coast,supported-completed,wales,1.0,53.35355,-4.2341
+2022-07-22,friday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,54.1726666666666,2.395
+2022-07-22,friday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,58.5258166666666,-4.42813333333333
+2022-07-22,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.3798333333333,-4.537
+2022-07-22,friday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,1.0,50.0066166666666,-5.15543333333333
+2022-07-22,friday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,55.4197666666666,-5.60583333333333
+2022-07-22,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,3.0,56.1748333333333,-3.87
+2022-07-22,friday,St Athan,W06000015,rescue/recovery,land,terminated-en-route,south-west,1.0,51.2115,-4.09733333333333
+2022-07-23,saturday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,4.0,53.9016666666666,-4.47833333333333
+2022-07-23,saturday,Humberside,E06000011,rescue/recovery,land,supported-completed,north-east,3.0,55.583,-1.65483333333333
+2022-07-23,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,4.0,56.8541666666666,-3.21333333333333
+2022-07-23,saturday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-on-scene,south-east,0.0,50.7856666666666,-0.925333333333333
+2022-07-23,saturday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,55.9583333333333,-4.925
+2022-07-23,saturday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,northern-ireland,3.0,55.2624,-6.18668333333333
+2022-07-23,saturday,Prestwick,S12000028,rescue/recovery,coast,terminated-on-scene,eastern-scotland,2.0,55.995,-3.40666666666666
+2022-07-23,saturday,St Athan,W06000015,support,coast,terminated-en-route,wales,0.0,52.1434166666666,-4.49748333333333
+2022-07-23,saturday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,57.4807833333333,-7.36483333333333
+2022-07-24,sunday,Caernarfon,W06000002,rescue/recovery,coast,terminated-prior-to-launch,wales,0.0,52.9521666666666,-4.56016666666666
+2022-07-24,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,52.6925,-3.876
+2022-07-24,sunday,Caernarfon,W06000002,support,land,terminated-on-scene,west-midlands,1.0,53.0333333333333,-2.28333333333333
+2022-07-24,sunday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.7177833333333,1.13611666666666
+2022-07-24,sunday,Humberside,E06000011,search-only,coast,supported-completed,east-of-england,3.0,52.6168333333333,1.758
+2022-07-24,sunday,Inverness,S12000027,rescue/recovery,coast,supported-completed,eastern-scotland,3.0,56.5623333333333,-2.54666666666666
+2022-07-24,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,1.0,57.0418333333333,-3.681
+2022-07-24,sunday,Lydd,E04004358,search-only,land,supported-completed,east-of-england,5.0,52.7227333333333,1.69188333333333
+2022-07-24,sunday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,3.0,51.0646666666666,2.00183333333333
+2022-07-24,sunday,Newquay,E06000052,search-only,maritime,supported-completed,south-west,3.0,49.7833333333333,-3.44166666666666
+2022-07-24,sunday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,1.0,50.7135,-4.65583333333333
+2022-07-24,sunday,St Athan,W06000015,rescue/recovery,maritime,supported-completed,north-west,4.0,53.5361666666666,-3.5735
+2022-07-24,sunday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,2.0,57.4808333333333,-7.36483333333333
+2022-07-24,sunday,Stornoway,S12000033,search-only,coast,terminated-en-route,highlands-and-islands,0.0,58.237,-6.36316666666666
+2022-07-24,sunday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,58.9568333333333,-2.90566666666666
+2022-07-24,sunday,Sumburgh,S12000017,support,maritime,terminated-prior-to-launch,highlands-and-islands,2.0,61.62,1.30716666666666
+2022-07-25,monday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,58.9568333333333,-2.90566666666666
+2022-07-25,monday,Inverness,S12000027,support,land,terminated-on-scene,highlands-and-islands,2.0,56.9196666666666,-4.98166666666666
+2022-07-25,monday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,1.0,50.75,0.171666666666666
+2022-07-25,monday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,51.3213333333333,1.38166666666666
+2022-07-25,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9605,-6.28216666666666
+2022-07-25,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.2723333333333,-6.29983333333333
+2022-07-25,monday,Stornoway,S12000033,support,coast,terminated-prior-to-launch,highlands-and-islands,0.0,57.065,-6.42883333333333
+2022-07-25,monday,Stornoway,S12000033,support,maritime,terminated-en-route,highlands-and-islands,0.0,56.2455,-8.7245
+2022-07-26,tuesday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,1.0,53.0740833333333,-4.06733333333333
+2022-07-26,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,3.0,54.04,2.02666666666666
+2022-07-26,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,2.0,57.67095,-2.55486666666666
+2022-07-26,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,3.0,51.7727833333333,2.435
+2022-07-26,tuesday,Newquay,E06000052,rescue/recovery,coast,terminated-en-route,south-west,0.0,50.407,-4.204
+2022-07-26,tuesday,Newquay,E06000052,support,coast,terminated-en-route,south-west,0.0,50.437,-3.54183333333333
+2022-07-26,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,2.0,54.4548333333333,-3.21683333333333
+2022-07-26,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,2.0,50.6826666666666,-2.68533333333333
+2022-07-26,tuesday,Stornoway,S12000033,support,maritime,terminated-en-route,highlands-and-islands,0.0,56.6716666666666,-7.10166666666666
+2022-07-26,tuesday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,60.6159333333333,-1.15965
+2022-07-27,wednesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0773333333333,-4.039
+2022-07-27,wednesday,Humberside,E06000011,rescue/recovery,land,terminated-en-route,yorkshire-and-the-humber,1.0,54.4965,-0.641166666666666
+2022-07-27,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,3.0,53.8598333333333,1.63216666666666
+2022-07-27,wednesday,Humberside,E06000011,support,land,supported-completed,yorkshire-and-the-humber,3.0,54.4528333333333,-0.838166666666666
+2022-07-27,wednesday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,1.0,50.6225,-2.27066666666666
+2022-07-27,wednesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,3.0,50.4285,-3.55416666666666
+2022-07-27,wednesday,St Athan,W06000015,support,coast,supported-completed,south-west,2.0,50.5775,-3.44666666666666
+2022-07-27,wednesday,St Athan,W06000015,support,coast,terminated-prior-to-launch,south-west,0.0,50.6276666666666,-3.31533333333333
+2022-07-28,thursday,Inverness,S12000027,support,land,terminated-en-route,north-eastern-scotland,2.0,57.0296666666666,-2.15633333333333
+2022-07-28,thursday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-west,1.0,50.2058333333333,-3.67983333333333
+2022-07-28,thursday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.9136666666666,-6.28983333333333
+2022-07-28,thursday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,2.0,51.2135,-4.02583333333333
+2022-07-28,thursday,St Athan,W06000015,support,land,terminated-on-scene,south-west,2.0,51.2145,-4.02433333333333
+2022-07-28,thursday,Stornoway,S12000033,rescue/recovery,coast,terminated-prior-to-launch,highlands-and-islands,0.0,58.5111666666666,-6.29066666666666
+2022-07-29,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.333333333333333,52.9617222222222,-3.9942777777777736
+2022-07-29,friday,Caernarfon,W06000002,search-only,land,supported-completed,north-west,2.0,53.3730333333333,-2.58313333333333
+2022-07-29,friday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,58.9328666666666,-3.30463333333333
+2022-07-29,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.7988333333333,-5.00333333333333
+2022-07-29,friday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,2.0,50.7345,-1.16016666666666
+2022-07-29,friday,Lydd,E04004358,support,coast,supported-completed,south-east,1.0,50.735,0.23
+2022-07-29,friday,Prestwick,S12000028,support,land,terminated-en-route,southern-scotland,1.0,55.0611666666666,-3.60583333333333
+2022-07-29,friday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.9381666666666,-5.21066666666666
+2022-07-29,friday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,60.6887333333333,-0.9197
+2022-07-30,saturday,Caernarfon,W06000002,rescue/recovery,coast,cancelled,north-west,0.0,53.9576666666666,-3.07466666666666
+2022-07-30,saturday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.0183333333333,1.79666666666666
+2022-07-30,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,4.0,50.71855,-2.80453333333333
+2022-07-30,saturday,Lee On Solent,E04012176,rescue/recovery,land,supported-completed,south-west,2.0,50.5503333333333,-2.4515
+2022-07-30,saturday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-east,2.0,50.3166666666666,-0.866666666666666
+2022-07-30,saturday,Lydd,E04004358,rescue/recovery,coast,supported-completed,east-of-england,3.0,51.7208333333333,0.7695
+2022-07-30,saturday,Prestwick,S12000028,support,land,terminated-en-route,north-west,2.0,54.468,-3.25745
+2022-07-30,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.7845,-5.104
+2022-07-30,saturday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.6421666666666,-3.10533333333333
+2022-07-31,sunday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,2.0,53.3587833333333,-4.24188333333333
+2022-07-31,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.799,-5.009749999999995
+2022-07-31,sunday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,1.0,51.1131666666666,1.31316666666666
+2022-07-31,sunday,Newquay,E06000052,support,coast,terminated-en-route,south-west,1.0,50.79715,-4.55635
+2022-07-31,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,3.0,56.3295,-4.61571666666666
+2022-07-31,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.50965,-6.17566666666666
+2022-07-31,sunday,Stornoway,S12000033,rescue/recovery,land,terminated-on-scene,highlands-and-islands,1.0,58.4898833333333,-6.22803333333333
+2022-07-31,sunday,Stornoway,S12000033,support,land,terminated-prior-to-launch,highlands-and-islands,0.0,58.3137,-6.73846666666666
+2022-07-31,sunday,Sumburgh,S12000017,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,6.0,59.8741333333333,-1.29095
+2022-07-31,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,59.28,-1.51666666666666
+2022-08-01,monday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.1116666666666,-4.02866666666666
+2022-08-01,monday,Caernarfon,W06000002,support,coast,terminated-en-route,wales,1.0,51.9511666666666,-5.1955
+2022-08-01,monday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.5,54.074999999999946,0.4715749999999995
+2022-08-01,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,north-eastern-scotland,2.0,56.9546666666666,-3.2215
+2022-08-01,monday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.7065,-1.289
+2022-08-01,monday,Lydd,E04004358,support,coast,supported-completed,south-east,3.0,50.8106666666666,-0.139166666666666
+2022-08-01,monday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,50.3996666666666,-3.48283333333333
+2022-08-01,monday,Newquay,E06000052,search-only,land,terminated-on-scene,south-west,1.0,50.4885,-3.50966666666666
+2022-08-01,monday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,55.4166666666666,-5.6
+2022-08-01,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,5.0,54.525,-3.01183333333333
+2022-08-01,monday,Prestwick,S12000028,search-only,coast,supported-completed,north-west,1.0,54.5545,-3.59233333333333
+2022-08-01,monday,St Athan,W06000015,support,coast,terminated-en-route,wales,1.0,51.9511666666666,-5.1955
+2022-08-02,tuesday,Caernarfon,W06000002,support,coast,terminated-en-route,northern-ireland,1.0,54.3176666666666,-5.51866666666666
+2022-08-02,tuesday,Inverness,S12000027,support,coast,supported-completed,north-eastern-scotland,2.0,57.4141666666666,-1.81516666666666
+2022-08-02,tuesday,Inverness,S12000027,support,coast,terminated-on-scene,north-eastern-scotland,1.0,57.6683333333333,-2.5145
+2022-08-02,tuesday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,57.0068333333333,-7.42433333333333
+2022-08-02,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.5173333333333,-5.91283333333333
+2022-08-02,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.9371666666666,-5.209
+2022-08-02,tuesday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,57.007,-7.44833333333333
+2022-08-02,tuesday,Stornoway,S12000033,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.2869833333333,-6.3727
+2022-08-02,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,60.3592,-4.05301666666666
+2022-08-03,wednesday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,3.0,52.42295,-4.08673333333333
+2022-08-03,wednesday,Humberside,E06000011,support,land,terminated-en-route,north-east,1.0,54.8411666666666,-1.33183333333333
+2022-08-03,wednesday,Humberside,E06000011,support,land,terminated-prior-to-launch,north-east,0.0,55.0088333333333,-1.4355
+2022-08-03,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,56.8181583333333,-5.021216666666665
+2022-08-03,wednesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,49.783,-4.56166666666666
+2022-08-03,wednesday,Prestwick,S12000028,support,coast,terminated-prior-to-launch,northern-ireland,0.0,55.104167,-5.955333
+2022-08-03,wednesday,St Athan,W06000015,search-only,coast,supported-completed,south-west,2.0,50.7105333333333,-2.00986666666666
+2022-08-03,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,61.2766666666666,0.92
+2022-08-04,thursday,Caernarfon,W06000002,search-only,coast,supported-completed,north-west,2.5,53.9408333333333,-3.1167499999999952
+2022-08-04,thursday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,4.0,53.015,2.63166666666666
+2022-08-04,thursday,Humberside,E06000011,search-only,coast,supported-completed,east-midlands,3.0,53.1956666666666,0.351666666666666
+2022-08-04,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.3053333333333,-3.36433333333333
+2022-08-04,thursday,Inverness,S12000027,support,coast,terminated-prior-to-launch,eastern-scotland,0.0,56.45845,-2.95733333333333
+2022-08-04,thursday,Lydd,E04004358,search-only,coast,supported-completed,south-east,1.0,50.75,0.166666666666666
+2022-08-04,thursday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,3.0,51.045,1.452
+2022-08-04,thursday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.7381666666666,0.253333333333333
+2022-08-04,thursday,Prestwick,S12000028,search-only,coast,supported-completed,southern-scotland,2.0,55.527,-4.644
+2022-08-04,thursday,Prestwick,S12000028,support,coast,terminated-prior-to-launch,highlands-and-islands,0.0,55.435,-5.11933333333333
+2022-08-05,friday,Inverness,S12000027,rescue/recovery,coast,terminated-en-route,eastern-scotland,1.0,56.275,-2.58
+2022-08-05,friday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,2.0,56.7976666666666,-5.00806666666666
+2022-08-05,friday,Prestwick,S12000028,support,coast,terminated-en-route,northern-ireland,1.0,54.2333333333333,-5.64636666666666
+2022-08-05,friday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,52.161,-4.47068333333333
+2022-08-05,friday,Stornoway,S12000033,rescue/recovery,coast,terminated-en-route,highlands-and-islands,0.0,57.6183333333333,-6.58833333333333
+2022-08-05,friday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,57.0469333333333,-6.41615833333333
+2022-08-05,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.6666666666666665,59.75888888888883,1.1969999999999963
+2022-08-06,saturday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,1.0,53.5535,-3.10183333333333
+2022-08-06,saturday,Humberside,E06000011,support,coast,terminated-en-route,yorkshire-and-the-humber,1.0,54.5188333333333,-0.592499999999999
+2022-08-06,saturday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9135,-6.29183333333333
+2022-08-06,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,55.4333333333333,-5.72183333333333
+2022-08-06,saturday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,3.0,51.7865,-3.56166666666666
+2022-08-07,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.5,53.088750000000005,-4.02983333333333
+2022-08-07,sunday,Humberside,E06000011,rescue/recovery,land,supported-completed,wales,5.0,53.0313666666666,-3.15933333333333
+2022-08-07,sunday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,2.0,54.0558333333333,2.07316666666666
+2022-08-07,sunday,Lee On Solent,E04012176,support,coast,supported-completed,south-east,1.0,50.7331666666666,-0.809666666666666
+2022-08-07,sunday,Lee On Solent,E04012176,support,coast,supported-completed,south-west,2.0,50.621,-2.225
+2022-08-07,sunday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9135,-6.29083333333333
+2022-08-07,sunday,Prestwick,S12000028,search-only,land,supported-completed,north-west,3.0,54.569,-2.92416666666666
+2022-08-07,sunday,St Athan,W06000015,support,land,terminated-prior-to-launch,wales,0.0,53.0313333333333,-3.00689814814814
+2022-08-07,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,61.6713333333333,1.48366666666666
+2022-08-08,monday,Humberside,E06000011,pre-arranged-transfer,maritime,supported-completed,yorkshire-and-the-humber,6.0,53.8,1.55
+2022-08-08,monday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,57.2464333333333,-5.91116666666666
+2022-08-08,monday,Lydd,E04004358,search-only,land,supported-completed,south-east,1.0,50.9666666666666,0.95
+2022-08-08,monday,Lydd,E04004358,support,coast,terminated-en-route,east-of-england,1.0,51.5222833333333,0.688333333333333
+2022-08-08,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,61.3633333333333,1.58
+2022-08-09,tuesday,Caernarfon,W06000002,rescue/recovery,coast,diverted-/-suspended,wales,0.0,51.9575,-5.19166666666666
+2022-08-09,tuesday,Caernarfon,W06000002,rescue/recovery,land,diverted-/-suspended,wales,0.0,52.37025,-4.39233333333333
+2022-08-09,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.073,-4.07916666666666
+2022-08-09,tuesday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,4.0,51.1005,1.2195
+2022-08-09,tuesday,Lydd,E04004358,search-only,coast,supported-completed,east-of-england,4.0,51.8535,1.27866666666666
+2022-08-09,tuesday,Prestwick,S12000028,rescue/recovery,coast,terminated-on-scene,highlands-and-islands,2.0,56.0975,-5.6
+2022-08-09,tuesday,St Athan,W06000015,rescue/recovery,land,diverted-/-suspended,wales,0.0,51.6675,-4.7055
+2022-08-09,tuesday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.6675,-4.7055
+2022-08-10,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,4.0,53.0533333333333,2.23166666666666
+2022-08-10,wednesday,Inverness,S12000027,support,coast,terminated-en-route,north-eastern-scotland,1.0,57.5596666666666,-1.80433333333333
+2022-08-10,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.6921666666666,-1.29633333333333
+2022-08-10,wednesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.7991666666666,-0.529833333333333
+2022-08-10,wednesday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.7496333333333,0.268116666666666
+2022-08-10,wednesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9523333333333,-6.35666666666666
+2022-08-10,wednesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,6.0,49.0491666666666,-9.55716666666666
+2022-08-10,wednesday,Prestwick,S12000028,support,land,terminated-en-route,highlands-and-islands,3.0,57.2526666666666,-5.8295
+2022-08-10,wednesday,St Athan,W06000015,search-only,coast,supported-completed,south-west,3.0,50.672,-3.24316666666666
+2022-08-11,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,52.977155555555534,-4.046233333333333
+2022-08-11,thursday,Humberside,E06000011,rescue/recovery,land,terminated-on-scene,yorkshire-and-the-humber,3.0,54.0,-2.31666666666666
+2022-08-11,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.8366666666666,-5.00133333333333
+2022-08-11,thursday,Inverness,S12000027,search-only,coast,terminated-on-scene,highlands-and-islands,0.0,57.5965,-4.09983333333333
+2022-08-11,thursday,Lee On Solent,E04012176,search-only,coast,terminated-on-scene,south-west,0.0,50.729,-1.735
+2022-08-11,thursday,Lydd,E04004358,rescue/recovery,coast,supported-completed,south-east,4.0,51.0798833333333,1.18521666666666
+2022-08-11,thursday,Lydd,E04004358,rescue/recovery,coast,terminated-prior-to-launch,south-east,0.0,50.8111666666666,-0.109333333333333
+2022-08-11,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,northern-ireland,2.0,55.2079333333333,-6.59708333333333
+2022-08-11,thursday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,eastern-scotland,0.0,56.454,-2.95233333333333
+2022-08-11,thursday,Prestwick,S12000028,search-only,coast,supported-completed,northern-ireland,3.0,55.2105,-6.6405
+2022-08-11,thursday,Stornoway,S12000033,search-only,coast,supported-completed,highlands-and-islands,2.0,57.3966666666666,-7.3255
+2022-08-12,friday,Caernarfon,W06000002,rescue/recovery,land,terminated-en-route,north-west,1.0,54.3743333333333,-3.31533333333333
+2022-08-12,friday,Caernarfon,W06000002,search-only,coast,supported-completed,north-west,4.0,53.7995,-3.05816666666666
+2022-08-12,friday,Caernarfon,W06000002,support,coast,diverted-/-suspended,north-west,0.0,53.7994333333333,-3.05818333333333
+2022-08-12,friday,Caernarfon,W06000002,support,coast,supported-completed,wales,0.0,53.13045,-4.37946666666666
+2022-08-12,friday,Humberside,E06000011,support,coast,terminated-en-route,north-west,1.0,53.7995,-3.05816666666666
+2022-08-12,friday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,58.4586666666666,-3.095
+2022-08-12,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.57725,-5.45705
+2022-08-12,friday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,1.0,50.7848666666666,-1.04526666666666
+2022-08-12,friday,Lee On Solent,E04012176,support,maritime,terminated-on-scene,south-west,2.0,50.1583333333333,-2.30221666666666
+2022-08-12,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.9988333333333,-5.26966666666666
+2022-08-12,friday,Prestwick,S12000028,search-only,coast,supported-completed,northern-ireland,2.0,55.2466166666666,-6.50166666666666
+2022-08-12,friday,St Athan,W06000015,search-only,coast,terminated-on-scene,wales,1.0,51.6699666666666,-4.2515
+2022-08-12,friday,St Athan,W06000015,support,coast,terminated-prior-to-launch,wales,0.0,51.528716666666654,-3.98583333333333
+2022-08-12,friday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,58.8766666666666,1.52666666666666
+2022-08-13,saturday,Caernarfon,W06000002,rescue/recovery,coast,terminated-prior-to-launch,wales,1.0,53.3008333333333,-3.847
+2022-08-13,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0579166666666,-4.068666666666665
+2022-08-13,saturday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,53.422,-4.45133333333333
+2022-08-13,saturday,Caernarfon,W06000002,support,land,diverted-/-suspended,wales,0.0,53.0676666666666,-4.07733333333333
+2022-08-13,saturday,Humberside,E06000011,rescue/recovery,coast,supported-completed,yorkshire-and-the-humber,2.0,54.1316666666666,-0.113333333333333
+2022-08-13,saturday,Humberside,E06000011,search-only,coast,supported-completed,east-midlands,5.0,53.1793333333333,0.356666666666666
+2022-08-13,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.5,56.7326666666666,-5.02008333333333
+2022-08-13,saturday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,4.0,56.7981666666666,-5.02766666666666
+2022-08-13,saturday,Lydd,E04004358,support,coast,terminated-prior-to-launch,south-east,0.0,51.3891666666666,1.37766666666666
+2022-08-13,saturday,Newquay,E06000052,search-only,land,supported-completed,south-west,2.0,50.4231666666666,-5.05383333333333
+2022-08-13,saturday,Newquay,E06000052,support,land,terminated-en-route,south-west,1.0,50.4011666666666,-3.51816666666666
+2022-08-13,saturday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.625916666666654,-3.61783333333333
+2022-08-13,saturday,St Athan,W06000015,support,coast,supported-completed,south-west,1.0,51.3388333333333,-3.055
+2022-08-13,saturday,Stornoway,S12000033,search-only,coast,supported-completed,highlands-and-islands,1.0,58.3618333333333,-6.625
+2022-08-13,saturday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,2.0,57.7515,-5.556
+2022-08-13,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,61.24,1.15
+2022-08-14,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,north-west,2.0,53.5388333333333,-1.9425
+2022-08-14,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.0,53.0766666666666,-4.02266666666666
+2022-08-14,sunday,Caernarfon,W06000002,support,land,terminated-en-route,north-west,1.0,54.4916666666666,-3.133
+2022-08-14,sunday,Caernarfon,W06000002,support,land,terminated-en-route,yorkshire-and-the-humber,0.0,53.5666666666666,-1.93333333333333
+2022-08-14,sunday,Humberside,E06000011,support,land,terminated-on-scene,north-east,2.0,54.8636666666666,-1.34716666666666
+2022-08-14,sunday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,51.0666666666666,1.16666666666666
+2022-08-14,sunday,Newquay,E06000052,support,coast,supported-completed,south-west,1.5,50.44199999999995,-5.12233333333333
+2022-08-14,sunday,Prestwick,S12000028,support,coast,supported-completed,southern-scotland,1.0,55.625,-4.76166666666666
+2022-08-14,sunday,Prestwick,S12000028,support,coast,terminated-en-route,eastern-scotland,0.0,55.9863333333333,-3.2945
+2022-08-14,sunday,Prestwick,S12000028,support,coast,terminated-en-route,southern-scotland,1.0,54.8763333333333,-3.58416666666666
+2022-08-14,sunday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.7705,-3.60133333333333
+2022-08-14,sunday,Sumburgh,S12000017,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,59.2506666666666,-2.57858333333333
+2022-08-14,sunday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,59.25,-2.56666666666666
+2022-08-14,sunday,Sumburgh,S12000017,support,land,terminated-en-route,highlands-and-islands,0.0,58.6136666666666,-3.56466666666666
+2022-08-15,monday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,0.0,53.9375,-3.0275
+2022-08-15,monday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.8333333333333,0.44
+2022-08-15,monday,Lydd,E04004358,rescue/recovery,coast,terminated-on-scene,south-east,2.0,50.7361666666666,0.242
+2022-08-15,monday,Lydd,E04004358,search-only,coast,supported-completed,south-east,1.0,50.7373333333333,0.253
+2022-08-15,monday,Lydd,E04004358,support,land,terminated-on-scene,south-east,2.0,51.3915,0.4995
+2022-08-15,monday,Lydd,E04004358,support,maritime,supported-completed,south-east,2.0,51.32,1.81166666666666
+2022-08-15,monday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,50.711,-5.83333333333333
+2022-08-15,monday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,3.0,55.6820666666666,-6.25866666666666
+2022-08-16,tuesday,Caernarfon,W06000002,support,coast,terminated-prior-to-launch,north-west,0.0,53.5042166666666,-3.1005
+2022-08-16,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.5173666666666,-4.38755
+2022-08-16,tuesday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,1.0,50.7102166666666,-1.29888333333333
+2022-08-16,tuesday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,50.7331666666666,0.241333333333333
+2022-08-16,tuesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,northern-ireland,3.0,54.7361666666666,-5.64283333333333
+2022-08-16,tuesday,St Athan,W06000015,search-only,coast,terminated-on-scene,south-west,2.0,50.47405,-3.48933333333333
+2022-08-17,wednesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,52.6973333333333,-3.91316666666666
+2022-08-17,wednesday,Caernarfon,W06000002,support,coast,terminated-prior-to-launch,wales,0.0,52.0236666666666,-4.893
+2022-08-17,wednesday,Humberside,E06000011,rescue/recovery,coast,terminated-prior-to-launch,east-of-england,0.0,52.9823333333333,0.892833333333333
+2022-08-17,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,57.2109166666666,-6.261
+2022-08-17,wednesday,Inverness,S12000027,support,coast,supported-completed,highlands-and-islands,1.0,57.1133333333333,-5.54666666666666
+2022-08-17,wednesday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,2.0,51.0246666666666,1.33333333333333
+2022-08-17,wednesday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,3.0,49.91241666666665,-6.29233333333333
+2022-08-17,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.33,-4.27666666666666
+2022-08-18,thursday,Caernarfon,W06000002,rescue/recovery,land,terminated-en-route,wales,0.0,53.1473333333333,-3.91416666666666
+2022-08-18,thursday,Caernarfon,W06000002,rescue/recovery,land,terminated-on-scene,wales,1.0,53.1185,-3.99466666666666
+2022-08-18,thursday,Humberside,E06000011,rescue/recovery,land,terminated-on-scene,north-east,1.0,54.9098333333333,-1.3855
+2022-08-18,thursday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,3.5,57.4017833333333,-3.71575
+2022-08-18,thursday,Lydd,E04004358,rescue/recovery,coast,terminated-en-route,south-east,0.0,51.363,1.02366666666666
+2022-08-18,thursday,Lydd,E04004358,rescue/recovery,land,terminated-en-route,south-east,0.0,51.08,-1.19383333333333
+2022-08-18,thursday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,4.0,49.9461666666666,-6.33116666666666
+2022-08-18,thursday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,2.0,55.7558333333333,-5.0485
+2022-08-18,thursday,Prestwick,S12000028,support,land,terminated-on-scene,highlands-and-islands,2.0,55.6251666666666,-5.23366666666666
+2022-08-18,thursday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.6833333333333,-5.05
+2022-08-18,thursday,St Athan,W06000015,support,coast,terminated-on-scene,south-west,2.0,50.7218833333333,-2.82275
+2022-08-19,friday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.2833333333333,2.835
+2022-08-19,friday,Inverness,S12000027,support,coast,supported-completed,highlands-and-islands,1.0,57.5886666666666,-3.89516666666666
+2022-08-19,friday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,5.0,49.2073333333333,-2.1975
+2022-08-19,friday,Lee On Solent,E04012176,search-only,land,terminated-on-scene,south-east,1.0,50.75,-1.28333333333333
+2022-08-19,friday,Lydd,E04004358,search-only,coast,terminated-en-route,east-of-england,1.0,51.5311666666666,0.807
+2022-08-19,friday,Newquay,E06000052,search-only,coast,terminated-on-scene,south-west,1.0,50.3951666666666,-3.48983333333333
+2022-08-19,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.3356666666666,-2.7795
+2022-08-19,friday,St Athan,W06000015,support,coast,supported-completed,wales,1.0,51.5871666666666,-4.2935
+2022-08-20,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,52.6931666666666,-3.89833333333333
+2022-08-20,saturday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,wales,2.0,53.6872166666666,-3.83528333333333
+2022-08-20,saturday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,0.0,52.8796666666666,-3.63006666666666
+2022-08-20,saturday,Humberside,E06000011,rescue/recovery,coast,supported-completed,east-of-england,2.0,52.9235,1.322
+2022-08-20,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,56.7514833333333,-4.89383333333333
+2022-08-20,saturday,Inverness,S12000027,support,land,terminated-on-scene,highlands-and-islands,2.0,56.7966666666666,-5.01786666666666
+2022-08-20,saturday,Lydd,E04004358,search-only,coast,supported-completed,south-east,5.0,51.1525,1.38616666666666
+2022-08-20,saturday,Lydd,E04004358,support,coast,supported-completed,south-east,2.0,50.9305,0.797666666666666
+2022-08-20,saturday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,eastern-scotland,2.0,56.065,-3.72833333333333
+2022-08-20,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.7966666666666,-5.01786666666666
+2022-08-21,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.0,53.1185,-3.99616666666666
+2022-08-21,sunday,Humberside,E06000011,rescue/recovery,land,terminated-on-scene,yorkshire-and-the-humber,1.0,54.0666666666666,-0.209
+2022-08-21,sunday,Lee On Solent,E04012176,support,coast,diverted-/-suspended,south-east,1.0,50.6648333333333,-1.107
+2022-08-21,sunday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,1.0,50.7351666666666,0.253166666666666
+2022-08-21,sunday,Lydd,E04004358,search-only,land,terminated-en-route,south-east,0.0,51.0245,0.997333333333333
+2022-08-21,sunday,Lydd,E04004358,support,coast,diverted-/-suspended,south-east,0.0,50.7351666666666,0.253166666666666
+2022-08-21,sunday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,2.0,50.7351666666666,0.253166666666666
+2022-08-21,sunday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9133333333333,-6.293
+2022-08-21,sunday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,eastern-scotland,1.0,56.3393333333333,-2.78283333333333
+2022-08-21,sunday,Prestwick,S12000028,search-only,coast,terminated-prior-to-launch,southern-scotland,0.0,54.775,-4.12666666666666
+2022-08-21,sunday,Stornoway,S12000033,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,57.7966666666666,-7.93666666666666
+2022-08-22,monday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,4.0,55.7565,-5.0485
+2022-08-22,monday,Lee On Solent,E04012176,pre-arranged-transfer,coast,supported-completed,south-west,5.0,49.6978333333333,-2.21383333333333
+2022-08-22,monday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,1.0,50.8311666666666,-1.20533333333333
+2022-08-22,monday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,3.0,50.7638333333333,1.16383333333333
+2022-08-22,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,northern-ireland,3.0,55.1678333333333,-6.79633333333333
+2022-08-23,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-on-scene,wales,1.0,52.0778333333333,-4.76966666666666
+2022-08-23,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.8083333333333,1.73983333333333
+2022-08-24,wednesday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,58.4766666666666,-2.77166666666666
+2022-08-24,wednesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-east,0.0,50.7306666666666,-0.804166666666666
+2022-08-24,wednesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,4.0,52.1045,2.675
+2022-08-24,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,west-central-scotland,2.0,55.90625,-4.60745
+2022-08-24,wednesday,St Athan,W06000015,support,land,terminated-on-scene,south-west,1.0,51.4541666666666,-2.62883333333333
+2022-08-25,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,4.0,52.9615,-3.14866666666666
+2022-08-25,thursday,Humberside,E06000011,support,coast,terminated-on-scene,yorkshire-and-the-humber,2.0,54.2346666666666,-0.330666666666666
+2022-08-25,thursday,Inverness,S12000027,rescue/recovery,coast,terminated-en-route,highlands-and-islands,0.0,57.5003333333333,-4.23283333333333
+2022-08-25,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.6556666666666,-5.01466666666666
+2022-08-25,thursday,Inverness,S12000027,support,coast,terminated-on-scene,north-eastern-scotland,6.0,57.1238333333333,-2.05433333333333
+2022-08-25,thursday,Lydd,E04004358,search-only,coast,supported-completed,south-east,0.0,50.9785,0.965833333333333
+2022-08-25,thursday,Lydd,E04004358,search-only,land,supported-completed,south-east,1.0,51.0948333333333,1.20233333333333
+2022-08-25,thursday,Newquay,E06000052,support,coast,supported-completed,south-west,2.0,50.3474,-5.1611
+2022-08-25,thursday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.6903333333333,-5.15966666666666
+2022-08-25,thursday,St Athan,W06000015,support,land,terminated-en-route,wales,1.0,51.6182666666666,-4.90426666666666
+2022-08-25,thursday,Stornoway,S12000033,support,coast,terminated-en-route,highlands-and-islands,1.0,57.8868333333333,-6.959
+2022-08-25,thursday,Stornoway,S12000033,support,coast,terminated-on-scene,highlands-and-islands,0.0,58.2638333333333,-6.29133333333333
+2022-08-25,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,59.61,1.51333333333333
+2022-08-26,friday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,2.0,52.7688333333333,-4.10766666666666
+2022-08-26,friday,Humberside,E06000011,search-only,land,supported-completed,east-midlands,3.0,52.801,0.0633333333333333
+2022-08-26,friday,Lee On Solent,E04012176,rescue/recovery,coast,terminated-en-route,south-west,1.0,50.6185,-2.2615
+2022-08-26,friday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,1.0,50.9138333333333,-1.3825
+2022-08-26,friday,Lee On Solent,E04012176,support,coast,supported-completed,south-west,1.0,50.5693333333333,-2.46166666666666
+2022-08-26,friday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-west,1.0,50.6655,-1.949
+2022-08-26,friday,Prestwick,S12000028,support,maritime,supported-completed,highlands-and-islands,5.0,56.0068333333333,-6.40433333333333
+2022-08-27,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,4.0,52.8660833333333,-4.038999999999995
+2022-08-27,saturday,Lee On Solent,E04012176,pre-arranged-transfer,land,terminated-en-route,south-east,1.0,50.7111666666666,-1.29883333333333
+2022-08-27,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.61,-2.26683333333333
+2022-08-27,saturday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,50.5406666666666,-5.02716666666666
+2022-08-27,saturday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,wales,2.0,51.253,-5.313
+2022-08-27,saturday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,northern-ireland,0.0,54.6766666666666,-5.85816666666666
+2022-08-27,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,4.0,61.2766666666666,0.92
+2022-08-28,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.10741666666665,-3.9880833333333294
+2022-08-28,sunday,Caernarfon,W06000002,support,coast,terminated-en-route,north-west,0.0,54.1668333333333,-2.83916666666666
+2022-08-28,sunday,Humberside,E06000011,rescue/recovery,land,terminated-en-route,west-midlands,1.0,52.6998333333333,-1.70316666666666
+2022-08-28,sunday,Humberside,E06000011,support,coast,terminated-en-route,east-midlands,1.0,53.1911666666666,0.355833333333333
+2022-08-28,sunday,Inverness,S12000027,support,land,terminated-en-route,highlands-and-islands,0.0,57.7703333333333,-5.038
+2022-08-28,sunday,Inverness,S12000027,support,land,terminated-on-scene,north-eastern-scotland,2.0,57.1215,-2.0725
+2022-08-28,sunday,Lydd,E04004358,rescue/recovery,coast,terminated-on-scene,south-east,1.0,50.8178333333333,-0.148333333333333
+2022-08-28,sunday,Lydd,E04004358,support,coast,terminated-en-route,south-east,1.0,50.739,0.208
+2022-08-28,sunday,Lydd,E04004358,support,land,terminated-en-route,south-east,1.0,51.4638333333333,0.257166666666666
+2022-08-28,sunday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,3.0,49.765,-3.49833333333333
+2022-08-28,sunday,Prestwick,S12000028,support,coast,supported-completed,west-central-scotland,3.0,56.0886666666666,-4.8545
+2022-08-28,sunday,Prestwick,S12000028,support,land,supported-completed,northern-ireland,2.0,54.1775,-5.9715
+2022-08-28,sunday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,4.0,51.6676666666666,-4.69966666666666
+2022-08-28,sunday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,2.0,60.4933333333333,-1.055
+2022-08-28,sunday,Sumburgh,S12000017,search-only,maritime,supported-completed,highlands-and-islands,5.0,60.7,-4.4
+2022-08-29,monday,Caernarfon,W06000002,support,coast,terminated-en-route,wales,1.0,51.9373333333333,-5.20916666666666
+2022-08-29,monday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,53.21165,-4.53973333333333
+2022-08-29,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.8025,-4.997
+2022-08-29,monday,Inverness,S12000027,search-only,land,supported-completed,highlands-and-islands,5.0,56.87175,-5.41788333333333
+2022-08-29,monday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-west,0.0,50.6843333333333,-1.9405
+2022-08-29,monday,Prestwick,S12000028,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,2.0,55.7606666666666,-4.92283333333333
+2022-08-29,monday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,northern-ireland,1.0,54.221667,-7.502833
+2022-08-29,monday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.3841666666666,-3.27733333333333
+2022-08-29,monday,St Athan,W06000015,support,coast,diverted-/-suspended,wales,1.0,51.9373,-5.20915
+2022-08-29,monday,St Athan,W06000015,support,coast,terminated-en-route,south-west,1.0,50.6023,-3.40028333333333
+2022-08-29,monday,St Athan,W06000015,support,coast,terminated-prior-to-launch,wales,0.0,51.385,-3.29316666666666
+2022-08-29,monday,St Athan,W06000015,support,land,terminated-prior-to-launch,south-west,0.0,51.185,-3.39916666666666
+2022-08-29,monday,Sumburgh,S12000017,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,60.6008333333333,-1.0705
+2022-08-30,tuesday,Caernarfon,W06000002,rescue/recovery,coast,terminated-on-scene,wales,0.0,52.786,-4.7135
+2022-08-30,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.5,56.94916666666665,-5.17216666666666
+2022-08-30,tuesday,Lee On Solent,E04012176,support,coast,terminated-en-route,south-west,0.0,50.6798333333333,-1.9475
+2022-08-30,tuesday,Newquay,E06000052,rescue/recovery,land,terminated-on-scene,south-west,0.0,50.4181666666666,-5.06983333333333
+2022-08-30,tuesday,Prestwick,S12000028,rescue/recovery,land,terminated-en-route,highlands-and-islands,1.0,56.3203333333333,-4.909
+2022-08-30,tuesday,Prestwick,S12000028,support,land,supported-completed,highlands-and-islands,3.0,56.5993333333333,-6.62333333333333
+2022-08-30,tuesday,St Athan,W06000015,rescue/recovery,land,terminated-on-scene,south-west,1.0,51.2278333333333,-3.8745
+2022-08-30,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.4251666666666,-3.342
+2022-08-31,wednesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0723333333333,-4.07316666666666
+2022-08-31,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,4.0,53.6325,2.96416666666666
+2022-08-31,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.8901666666666,-3.00766666666666
+2022-08-31,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,57.8414166666666,-5.22278333333333
+2022-08-31,wednesday,Lee On Solent,E04012176,support,maritime,supported-completed,south-east,2.0,50.5527833333333,0.0172333333333333
+2022-08-31,wednesday,Lydd,E04004358,rescue/recovery,land,supported-completed,east-of-england,3.0,51.5971666666666,0.827
+2022-08-31,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,southern-scotland,4.0,55.086,-4.9785
+2022-08-31,wednesday,Prestwick,S12000028,search-only,land,supported-completed,eastern-scotland,3.0,56.2103,-3.96206666666666
+2022-08-31,wednesday,Prestwick,S12000028,support,land,terminated-prior-to-launch,highlands-and-islands,0.0,56.395,-5.48166666666666
+2022-08-31,wednesday,St Athan,W06000015,support,coast,terminated-en-route,south-west,1.0,51.0,-4.5735
+2022-08-31,wednesday,St Athan,W06000015,support,coast,terminated-prior-to-launch,wales,0.0,51.8675,-5.2565
+2022-08-31,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.259,-6.12833333333333
+2022-09-01,thursday,Humberside,E06000011,support,land,terminated-en-route,north-east,1.0,54.5971666666666,-1.01866666666666
+2022-09-01,thursday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.4028333333333,-3.22966666666666
+2022-09-01,thursday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-west,3.0,50.706,-1.9
+2022-09-01,thursday,Newquay,E06000052,search-only,coast,supported-completed,south-west,4.0,50.0836666666666,-5.538
+2022-09-01,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,southern-scotland,3.0,55.8681666666666,-2.083
+2022-09-01,thursday,Prestwick,S12000028,support,land,terminated-en-route,north-west,1.0,54.5876666666666,-3.05366666666666
+2022-09-01,thursday,Stornoway,S12000033,search-only,coast,supported-completed,highlands-and-islands,4.0,57.0135,-6.261
+2022-09-01,thursday,Stornoway,S12000033,support,land,supported-completed,highlands-and-islands,3.0,57.365,-6.66666666666666
+2022-09-01,thursday,Sumburgh,S12000017,search-only,land,terminated-en-route,highlands-and-islands,1.0,59.0768333333333,-3.24966666666666
+2022-09-02,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,1.0,53.1203333333333,-3.99516666666666
+2022-09-02,friday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,north-west,2.0,54.0261666666666,-3.863
+2022-09-02,friday,Lydd,E04004358,search-only,coast,supported-completed,south-east,1.0,50.7391666666666,0.247666666666666
+2022-09-02,friday,Lydd,E04004358,search-only,land,supported-completed,south-east,2.0,51.4645,0.258666666666666
+2022-09-02,friday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,2.0,49.8841666666666,-5.17683333333333
+2022-09-02,friday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.4996333333333,-6.86886666666666
+2022-09-02,friday,Prestwick,S12000028,support,coast,diverted-/-suspended,northern-ireland,1.0,54.8617666666666,-5.76996666666666
+2022-09-02,friday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,3.0,51.2068333333333,-4.05416666666666
+2022-09-02,friday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,2.0,57.64765,-7.35593333333333
+2022-09-03,saturday,Caernarfon,W06000002,rescue/recovery,maritime,supported-completed,north-west,2.0,53.8456666666666,-3.583
+2022-09-03,saturday,Humberside,E06000011,support,land,supported-completed,yorkshire-and-the-humber,0.0,53.4166666666666,-1.61666666666666
+2022-09-03,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,56.4828333333333,-6.97233333333333
+2022-09-03,saturday,Inverness,S12000027,support,coast,terminated-en-route,highlands-and-islands,1.0,58.6028666666666,-3.50228333333333
+2022-09-03,saturday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,4.0,58.2125,-6.33045
+2022-09-03,saturday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,4.0,52.6216666666666,2.65028333333333
+2022-09-03,saturday,Lydd,E04004358,search-only,maritime,terminated-en-route,south-east,0.0,50.8676666666666,1.04166666666666
+2022-09-03,saturday,Newquay,E06000052,support,coast,terminated-on-scene,south-west,3.0,49.9525,-6.30083333333333
+2022-09-03,saturday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,3.0,57.442,-5.661
+2022-09-04,sunday,Lee On Solent,E04012176,rescue/recovery,land,supported-completed,south-west,2.0,50.6915,-2.02816666666666
+2022-09-04,sunday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-east,0.0,50.7683333333333,0.0943333333333333
+2022-09-04,sunday,Prestwick,S12000028,support,coast,terminated-on-scene,highlands-and-islands,1.0,55.8951666666666,-5.04816666666666
+2022-09-04,sunday,Stornoway,S12000033,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,56.952,-7.497
+2022-09-05,monday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,5.0,57.2321666666666,-5.481
+2022-09-05,monday,Lee On Solent,E04012176,pre-arranged-transfer,maritime,supported-completed,south-west,4.0,49.2076666666666,-2.196
+2022-09-05,monday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,4.0,50.5275,-1.02866666666666
+2022-09-05,monday,Newquay,E06000052,rescue/recovery,land,supported-completed,south-west,2.0,50.1971666666666,-5.56166666666666
+2022-09-05,monday,Newquay,E06000052,support,maritime,terminated-prior-to-launch,south-west,0.0,50.0413333333333,-6.38066666666666
+2022-09-05,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,55.88805,-6.01595
+2022-09-05,monday,Prestwick,S12000028,support,coast,terminated-en-route,highlands-and-islands,1.0,56.2048333333333,-4.76316666666666
+2022-09-05,monday,Prestwick,S12000028,support,coast,terminated-prior-to-launch,southern-scotland,0.0,55.5038333333333,-4.62201666666666
+2022-09-05,monday,St Athan,W06000015,rescue/recovery,maritime,supported-completed,wales,4.0,51.6355,-5.373
+2022-09-05,monday,St Athan,W06000015,support,land,terminated-en-route,south-west,1.0,50.478,-3.504
+2022-09-05,monday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,60.5113333333333,1.5755
+2022-09-06,tuesday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.07379166666665,-4.068699999999995
+2022-09-06,tuesday,Inverness,S12000027,support,coast,terminated-prior-to-launch,eastern-scotland,0.0,56.07,-2.78166666666666
+2022-09-06,tuesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9528333333333,-6.33083333333333
+2022-09-06,tuesday,Newquay,E06000052,rescue/recovery,maritime,supported-completed,south-west,8.0,49.63,-6.59216666666666
+2022-09-06,tuesday,Prestwick,S12000028,support,coast,terminated-on-scene,north-west,2.0,54.5758333333333,-3.58483333333333
+2022-09-06,tuesday,Prestwick,S12000028,support,coast,terminated-prior-to-launch,eastern-scotland,0.0,56.07,-2.78166666666666
+2022-09-06,tuesday,St Athan,W06000015,rescue/recovery,coast,terminated-en-route,wales,0.0,51.6333333333333,-4.8
+2022-09-07,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.8333333333333,0.44
+2022-09-07,wednesday,Humberside,E06000011,support,land,terminated-en-route,east-midlands,1.0,53.1923666666666,0.19885
+2022-09-07,wednesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.896,-4.97783333333333
+2022-09-07,wednesday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-east,3.0,50.6,-0.95
+2022-09-07,wednesday,Stornoway,S12000033,search-only,land,supported-completed,highlands-and-islands,1.0,57.8959333333333,-4.97785
+2022-09-08,thursday,Inverness,S12000027,pre-arranged-transfer,land,supported-completed,highlands-and-islands,5.0,56.82,-5.10483333333333
+2022-09-08,thursday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,south-east,3.0,51.1605,1.67916666666666
+2022-09-08,thursday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,3.0,55.5428333333333,-5.1175
+2022-09-08,thursday,Prestwick,S12000028,rescue/recovery,coast,terminated-en-route,highlands-and-islands,1.0,56.5335,-5.52066666666666
+2022-09-08,thursday,Prestwick,S12000028,rescue/recovery,land,supported-completed,eastern-scotland,2.0,56.3558333333333,-4.22066666666666
+2022-09-09,friday,Humberside,E06000011,rescue/recovery,coast,supported-completed,north-east,3.0,54.5876666666666,-0.947666666666666
+2022-09-09,friday,Humberside,E06000011,rescue/recovery,land,supported-completed,yorkshire-and-the-humber,3.0,54.4585,-0.545166666666666
+2022-09-09,friday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,2.0,53.6206666666666,0.7875
+2022-09-09,friday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,56.6789166666666,-5.01823333333333
+2022-09-09,friday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.7,-1.28333333333333
+2022-09-09,friday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,east-of-england,4.0,52.9905,2.41883333333333
+2022-09-09,friday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,50.7378333333333,0.213666666666666
+2022-09-09,friday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,3.0,49.935,-6.27833333333333
+2022-09-09,friday,Prestwick,S12000028,support,coast,terminated-on-scene,northern-ireland,3.0,55.2395,-6.33233333333333
+2022-09-09,friday,St Athan,W06000015,rescue/recovery,coast,supported-completed,south-west,3.0,51.15,-4.65
+2022-09-10,saturday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.5,53.0983333333333,-4.024424999999996
+2022-09-10,saturday,Caernarfon,W06000002,support,land,diverted-/-suspended,wales,1.0,53.1203333333333,-3.99783333333333
+2022-09-10,saturday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,0.0,53.1363166666666,-4.40066666666666
+2022-09-10,saturday,Humberside,E06000011,search-only,coast,supported-completed,yorkshire-and-the-humber,1.0,53.7075,-0.45
+2022-09-10,saturday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-east,2.0,50.6691666666666,-0.967666666666666
+2022-09-10,saturday,Lydd,E04004358,support,coast,supported-completed,south-east,1.0,50.7338333333333,0.240433333333333
+2022-09-10,saturday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,2.0,49.9106666666666,-6.288
+2022-09-10,saturday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.5536666666666,-4.266
+2022-09-10,saturday,St Athan,W06000015,support,land,terminated-on-scene,wales,2.0,52.304,-3.50166666666666
+2022-09-10,saturday,St Athan,W06000015,support,land,terminated-prior-to-launch,wales,1.0,51.5865,-4.19533333333333
+2022-09-10,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,5.0,58.4823333333333,-4.67216666666666
+2022-09-10,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.83,-2.24166666666666
+2022-09-11,sunday,Humberside,E06000011,rescue/recovery,land,supported-completed,east-midlands,4.0,52.9065,-0.0698333333333333
+2022-09-11,sunday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,2.0,57.427,-4.677
+2022-09-11,sunday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.7098333333333,-1.29883333333333
+2022-09-11,sunday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,2.0,51.0451666666666,1.42
+2022-09-11,sunday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.8083333333333,-0.1275
+2022-09-11,sunday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,50.2016666666666,-5.562
+2022-09-11,sunday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,7.0,57.4806666666666,-7.36483333333333
+2022-09-11,sunday,St Athan,W06000015,search-only,coast,terminated-on-scene,south-west,1.0,51.3465,-2.98766666666666
+2022-09-11,sunday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,8.5,61.05374999999995,1.394166666666665
+2022-09-12,monday,Humberside,E06000011,rescue/recovery,land,supported-completed,yorkshire-and-the-humber,2.0,54.0031666666666,-0.224
+2022-09-12,monday,Lee On Solent,E04012176,support,land,terminated-on-scene,south-east,1.0,50.8986666666666,-1.38566666666666
+2022-09-12,monday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,5.0,56.4228333333333,-5.13816666666666
+2022-09-12,monday,Prestwick,S12000028,support,land,terminated-en-route,eastern-scotland,1.0,55.9583333333333,-3.11783333333333
+2022-09-13,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.8048333333333,-5.04383333333333
+2022-09-13,tuesday,Lee On Solent,E04012176,search-only,coast,supported-completed,south-west,2.0,50.6421666666666,-1.924
+2022-09-13,tuesday,St Athan,W06000015,search-only,land,terminated-on-scene,south-west,2.0,50.4785,-3.50933333333333
+2022-09-14,wednesday,Caernarfon,W06000002,rescue/recovery,coast,terminated-en-route,north-west,0.0,54.0658333333333,-2.90283333333333
+2022-09-14,wednesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,3.0,53.2235,1.45466666666666
+2022-09-14,wednesday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.711,-1.29883333333333
+2022-09-14,wednesday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,1.0,50.9138333333333,-1.38683333333333
+2022-09-14,wednesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,50.2341666666666,-4.84216666666666
+2022-09-14,wednesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,wales,3.0,51.5626666666666,-4.30666666666666
+2022-09-14,wednesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,2.0,54.4605,-3.16916666666666
+2022-09-14,wednesday,St Athan,W06000015,search-only,coast,supported-completed,south-west,5.0,50.6356666666666,-2.419
+2022-09-14,wednesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.2111666666666,-6.1735
+2022-09-15,thursday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,3.0,53.1025833333333,-3.9782499999999943
+2022-09-15,thursday,Humberside,E06000011,search-only,maritime,supported-completed,east-midlands,1.0,53.386,0.875166666666666
+2022-09-15,thursday,Lee On Solent,E04012176,search-only,land,supported-completed,south-east,1.0,50.8986666666666,-1.3855
+2022-09-15,thursday,Lydd,E04004358,support,maritime,supported-completed,south-east,3.0,51.0741666666666,1.57183333333333
+2022-09-15,thursday,Newquay,E06000052,search-only,land,supported-completed,south-west,3.0,50.4598333333333,-3.542
+2022-09-15,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,1.0,55.5271666666666,-5.06866666666666
+2022-09-15,thursday,Prestwick,S12000028,support,land,terminated-on-scene,southern-scotland,3.0,54.8763333333333,-4.87933333333333
+2022-09-16,friday,Caernarfon,W06000002,support,land,terminated-on-scene,wales,0.0,53.0461666666666,-4.02416666666666
+2022-09-16,friday,Inverness,S12000027,support,coast,terminated-en-route,eastern-scotland,2.0,56.4581333333333,-2.87781666666666
+2022-09-16,friday,Lee On Solent,E04012176,pre-arranged-transfer,land,supported-completed,south-east,2.0,50.711,-1.29883333333333
+2022-09-16,friday,Newquay,E06000052,support,maritime,supported-completed,south-west,2.0,50.3186666666666,-6.874
+2022-09-16,friday,Prestwick,S12000028,pre-arranged-transfer,land,supported-completed,highlands-and-islands,2.0,55.4197666666666,-5.60583333333333
+2022-09-17,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,9.0,57.1614833333333,-5.4082
+2022-09-17,saturday,Inverness,S12000027,support,land,supported-completed,highlands-and-islands,6.0,57.1614833333333,-5.4082
+2022-09-17,saturday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-west,1.0,50.5908333333333,-1.99983333333333
+2022-09-17,saturday,Lee On Solent,E04012176,support,coast,terminated-prior-to-launch,south-west,0.0,50.6991666666666,-1.73333333333333
+2022-09-17,saturday,Lydd,E04004358,support,coast,terminated-on-scene,south-east,1.0,51.0736666666666,1.17233333333333
+2022-09-17,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,1.0,56.7900833333333,-5.03591666666666
+2022-09-17,saturday,Prestwick,S12000028,rescue/recovery,land,supported-completed,north-west,2.0,54.5350166666666,-2.98528333333333
+2022-09-17,saturday,Prestwick,S12000028,support,land,supported-completed,highlands-and-islands,4.0,56.7575,-4.96566666666666
+2022-09-17,saturday,Prestwick,S12000028,support,land,terminated-on-scene,highlands-and-islands,2.0,56.7574833333333,-4.96563333333333
+2022-09-17,saturday,Prestwick,S12000028,support,land,terminated-prior-to-launch,southern-scotland,1.0,55.0,-3.56666666666666
+2022-09-17,saturday,Sumburgh,S12000017,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,5.0,60.1508333333333,-1.15116666666666
+2022-09-17,saturday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,north-eastern-scotland,3.0,58.45,-0.253333333333333
+2022-09-18,sunday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,2.0,53.0946666666666,-4.09633333333333
+2022-09-18,sunday,Humberside,E06000011,search-only,coast,supported-completed,yorkshire-and-the-humber,3.0,53.7068333333333,-0.451666666666666
+2022-09-18,sunday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.4146666666666,-5.21166666666666
+2022-09-18,sunday,Inverness,S12000027,rescue/recovery,land,terminated-en-route,highlands-and-islands,0.0,57.204,-6.19566666666666
+2022-09-18,sunday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,50.4255,-5.09866666666666
+2022-09-18,sunday,Prestwick,S12000028,support,land,terminated-en-route,eastern-scotland,1.0,56.0266666666666,-2.59516666666666
+2022-09-18,sunday,Stornoway,S12000033,rescue/recovery,land,terminated-on-scene,highlands-and-islands,10.0,57.204,-6.19566666666666
+2022-09-19,monday,Lee On Solent,E04012176,rescue/recovery,maritime,supported-completed,south-west,3.0,50.4231666666666,-2.626
+2022-09-19,monday,Prestwick,S12000028,search-only,land,supported-completed,highlands-and-islands,4.0,57.0786666666666,-5.51383333333333
+2022-09-19,monday,St Athan,W06000015,rescue/recovery,land,supported-completed,wales,2.0,51.8826666666666,-3.45266666666666
+2022-09-19,monday,St Athan,W06000015,search-only,maritime,supported-completed,wales,2.0,51.7307333333333,-5.48275
+2022-09-19,monday,St Athan,W06000015,support,land,terminated-on-scene,wales,2.0,51.6750166666666,-2.67576666666666
+2022-09-19,monday,Sumburgh,S12000017,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,60.7638333333333,-1.16433333333333
+2022-09-20,tuesday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,yorkshire-and-the-humber,4.0,53.8565,0.620833333333333
+2022-09-20,tuesday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,58.0311666666666,-5.0738
+2022-09-20,tuesday,Inverness,S12000027,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,57.7105,-3.7305
+2022-09-20,tuesday,Lydd,E04004358,rescue/recovery,maritime,supported-completed,south-east,2.0,51.5328833333333,1.37841666666666
+2022-09-20,tuesday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.940333,-6.336667
+2022-09-20,tuesday,St Athan,W06000015,rescue/recovery,coast,supported-completed,wales,2.0,51.6187666666666,-4.90343333333333
+2022-09-20,tuesday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.7972666666666,-7.06636666666666
+2022-09-21,wednesday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,3.0,53.3496666666666,-3.40566666666666
+2022-09-21,wednesday,St Athan,W06000015,search-only,land,supported-completed,south-west,3.0,51.1973333333333,-3.09733333333333
+2022-09-22,thursday,Caernarfon,W06000002,pre-arranged-transfer,land,supported-completed,north-west,7.0,53.7886666666666,-2.70833333333333
+2022-09-22,thursday,Newquay,E06000052,pre-arranged-transfer,coast,supported-completed,south-west,4.0,49.91245,-6.293
+2022-09-22,thursday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,4.0,56.5021666666666,-6.1535
+2022-09-23,friday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,north-west,2.0,54.1866666666666,-3.32555
+2022-09-23,friday,Caernarfon,W06000002,rescue/recovery,land,supported-completed,wales,5.0,53.0823333333333,-4.06766666666666
+2022-09-23,friday,Inverness,S12000027,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.8716666666666,-5.67066666666666
+2022-09-23,friday,Lee On Solent,E04012176,support,coast,terminated-on-scene,south-east,0.0,50.6638333333333,-1.1085
+2022-09-23,friday,Newquay,E06000052,support,coast,terminated-prior-to-launch,south-west,0.0,50.2408333333333,-5.398
+2022-09-23,friday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,57.5306666666666,-5.20866666666666
+2022-09-24,saturday,Caernarfon,W06000002,rescue/recovery,coast,supported-completed,wales,2.0,53.4183333333333,-4.45266666666666
+2022-09-24,saturday,Caernarfon,W06000002,rescue/recovery,land,diverted-/-suspended,wales,1.0,53.0733333333333,-4.06266666666666
+2022-09-24,saturday,Caernarfon,W06000002,support,land,supported-completed,wales,2.0,53.0581666666666,-4.08766666666666
+2022-09-24,saturday,Humberside,E06000011,rescue/recovery,maritime,supported-completed,east-of-england,2.0,53.1618333333333,0.903166666666666
+2022-09-24,saturday,Inverness,S12000027,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,56.7178333333333,-4.9724166666666605
+2022-09-24,saturday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-east,3.0,50.6745,-1.564
+2022-09-24,saturday,Lee On Solent,E04012176,support,land,diverted-/-suspended,south-east,1.0,50.9075,-1.3855
+2022-09-24,saturday,Lee On Solent,E04012176,support,maritime,terminated-on-scene,south-west,1.0,50.6263333333333,-2.73783333333333
+2022-09-24,saturday,Lydd,E04004358,search-only,coast,supported-completed,south-east,2.0,50.742,0.199666666666666
+2022-09-24,saturday,Lydd,E04004358,search-only,land,supported-completed,east-of-england,2.0,51.8533333333333,1.25333333333333
+2022-09-24,saturday,Newquay,E06000052,pre-arranged-transfer,maritime,supported-completed,south-west,3.0,49.7616666666666,-6.01238425925925
+2022-09-24,saturday,Prestwick,S12000028,rescue/recovery,land,terminated-on-scene,north-west,1.0,54.4666666666666,-3.2095
+2022-09-24,saturday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.238,-6.21833333333333
+2022-09-25,sunday,Caernarfon,W06000002,support,land,supported-completed,wales,2.0,53.3223333333333,-4.22033333333333
+2022-09-25,sunday,Humberside,E06000011,support,coast,terminated-prior-to-launch,yorkshire-and-the-humber,0.0,53.7068333333333,-0.45
+2022-09-25,sunday,Lee On Solent,E04012176,rescue/recovery,coast,supported-completed,south-west,2.0,50.5953333333333,-2.07333333333333
+2022-09-25,sunday,Lydd,E04004358,rescue/recovery,coast,terminated-on-scene,south-east,0.0,50.736,0.226333333333333
+2022-09-25,sunday,Newquay,E06000052,pre-arranged-transfer,land,supported-completed,south-west,3.0,50.2673333333333,-5.094
+2022-09-25,sunday,Prestwick,S12000028,rescue/recovery,land,terminated-on-scene,highlands-and-islands,1.0,55.3243333333333,-5.57833333333333
+2022-09-25,sunday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,4.0,57.7021666666666,-5.558
+2022-09-26,monday,Caernarfon,W06000002,search-only,land,supported-completed,north-west,4.0,53.9383833333333,-2.38781666666666
+2022-09-26,monday,Humberside,E06000011,support,maritime,terminated-en-route,north-east,1.0,54.7518333333333,-1.155
+2022-09-26,monday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.823,-0.171333333333333
+2022-09-26,monday,Newquay,E06000052,search-only,land,supported-completed,south-west,4.0,50.0666666666666,-5.07833333333333
+2022-09-26,monday,Newquay,E06000052,support,land,terminated-on-scene,south-west,1.0,50.0680166666666,-5.07966666666666
+2022-09-26,monday,Prestwick,S12000028,support,coast,terminated-en-route,northern-ireland,1.0,55.1895,-6.71833333333333
+2022-09-26,monday,Stornoway,S12000033,rescue/recovery,land,supported-completed,highlands-and-islands,2.0,57.2518833333333,-6.19288333333333
+2022-09-27,tuesday,Caernarfon,W06000002,support,coast,terminated-on-scene,wales,1.0,53.3416666666666,-3.845
+2022-09-27,tuesday,Lydd,E04004358,support,coast,terminated-en-route,south-east,0.0,50.735,0.166
+2022-09-27,tuesday,Newquay,E06000052,search-only,coast,terminated-on-scene,south-west,2.0,50.4186666666666,-5.0825
+2022-09-27,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,highlands-and-islands,3.0,55.6267166666666,-6.22086666666666
+2022-09-27,tuesday,Prestwick,S12000028,rescue/recovery,land,supported-completed,west-central-scotland,4.0,56.0933333333333,-4.74433333333333
+2022-09-27,tuesday,St Athan,W06000015,rescue/recovery,land,supported-completed,south-west,2.0,51.1988333333333,-4.17583333333333
+2022-09-27,tuesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,3.0,59.5466666666666,1.53666666666666
+2022-09-28,wednesday,Humberside,E06000011,search-only,land,supported-completed,yorkshire-and-the-humber,3.0,54.4606666666666,-0.683333333333333
+2022-09-28,wednesday,Humberside,E06000011,search-only,maritime,supported-completed,yorkshire-and-the-humber,3.0,53.9,0.45
+2022-09-28,wednesday,Prestwick,S12000028,rescue/recovery,coast,supported-completed,highlands-and-islands,3.0,56.341,-6.39666666666666
+2022-09-28,wednesday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.5,60.9133333333333,0.976666666666665
+2022-09-29,thursday,Caernarfon,W06000002,search-only,land,supported-completed,wales,3.0,53.0921666666666,-4.313
+2022-09-29,thursday,Inverness,S12000027,search-only,coast,supported-completed,north-eastern-scotland,2.0,56.7566666666666,-2.41833333333333
+2022-09-29,thursday,Lydd,E04004358,rescue/recovery,land,supported-completed,south-east,2.0,50.88705,-0.0029833333333333
+2022-09-29,thursday,Lydd,E04004358,search-only,maritime,supported-completed,south-east,1.0,50.7373833333333,-0.21655
+2022-09-29,thursday,Newquay,E06000052,search-only,land,supported-completed,south-west,3.0,50.4113333333333,-3.56495
+2022-09-29,thursday,St Athan,W06000015,support,coast,supported-completed,south-west,2.0,50.68,-3.46733333333333
+2022-09-29,thursday,Sumburgh,S12000017,rescue/recovery,maritime,supported-completed,highlands-and-islands,2.0,60.7366666666666,-2.495
+2022-09-30,friday,Caernarfon,W06000002,pre-arranged-transfer,land,supported-completed,southern-scotland,5.0,54.1726,-4.50481666666666
+2022-09-30,friday,Newquay,E06000052,rescue/recovery,coast,supported-completed,south-west,2.0,49.9141666666666,-6.29466666666666
+2022-09-30,friday,St Athan,W06000015,support,coast,terminated-en-route,wales,1.0,52.0343333333333,-4.90666666666666
+2022-09-30,friday,Stornoway,S12000033,pre-arranged-transfer,coast,supported-completed,highlands-and-islands,4.0,56.9846666666666,-7.51383333333333

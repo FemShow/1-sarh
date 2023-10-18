@@ -1,0 +1,58 @@
+{
+  "$schema": "https://purl.org/csv-cubed/qube-config/v1",
+  "title": "Search and Rescue Helicopter Statistics",
+  "description": "All registered vehicles in Great Britain; from 1994 Quarter 4 (end December)",
+  "creator": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+  "publisher": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+  "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "keywords": [
+    "rescue",
+    "helicopter",
+    "safety",
+    "Search" 
+  ],
+  "columns": {
+    "Date": {
+      "from_template": "day"
+    },
+    "Day of week": {
+      "type": "dimension",
+      "label": "Weekday"
+   },
+    "Base": false,
+    "ONS_code": {
+      "from_template": "statistical-geography"
+    },
+    "Type of tasking":{
+      "type": "dimension",
+      "label": "Taskingtype"
+   },
+    "Tasking location":{
+      "type": "dimension",
+      "label": "Geographic region",
+      "label": "Tasking_loc"
+   },
+    "Tasking outcome":{
+      "type": "dimension",
+      "label": "Tasking_outcme"
+   },
+    "Region":{
+      "type": "dimension"
+   },
+    "Duration":{
+      "type": "observations",
+      "measure": {
+        "label": "UK Search and Rescue Helicopter Taskings Durations",
+        "description": "UK Civilian Search and Rescue Helicopter duration by tasking.",
+        "from_existing": "https://purl.org/csv-cubed/resources/measures#elapsed-time"
+      },
+      "data_type": "float",
+      "unit": {
+        "label": "Number",
+        "from_existing": "http://qudt.org/vocab/unit/NUM"
+      }
+    },
+    "Latitude":false,
+    "Longitude":false
+  }
+}

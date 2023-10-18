@@ -1,0 +1,1113 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "@id": "search-and-rescue-helicopter-statistics.csv#dataset",
+    "tables": [
+        {
+            "url": "search-and-rescue-helicopter-statistics.csv",
+            "tableSchema": {
+                "columns": [
+                    {
+                        "titles": "Date",
+                        "name": "date",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/day",
+                        "valueUrl": "day.csv#{+date}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Day of week",
+                        "name": "day_of_week",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/weekday",
+                        "valueUrl": "weekday.csv#{+day_of_week}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Base",
+                        "name": "base",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "ONS_code",
+                        "name": "ons_code",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography",
+                        "valueUrl": "http://statistics.data.gov.uk/id/statistical-geography/{+ons_code}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Type of tasking",
+                        "name": "type_of_tasking",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype",
+                        "valueUrl": "taskingtype.csv#{+type_of_tasking}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Tasking location",
+                        "name": "tasking_location",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc",
+                        "valueUrl": "tasking_loc.csv#{+tasking_location}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Tasking outcome",
+                        "name": "tasking_outcome",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme",
+                        "valueUrl": "tasking_outcme.csv#{+tasking_outcome}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Region",
+                        "name": "region",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/region",
+                        "valueUrl": "region.csv#{+region}",
+                        "required": true
+                    },
+                    {
+                        "titles": "Duration",
+                        "name": "duration",
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations",
+                        "datatype": "float",
+                        "required": true
+                    },
+                    {
+                        "titles": "Latitude",
+                        "name": "latitude",
+                        "suppressOutput": true
+                    },
+                    {
+                        "titles": "Longitude",
+                        "name": "longitude",
+                        "suppressOutput": true
+                    },
+                    {
+                        "name": "virt_slice",
+                        "virtual": true,
+                        "propertyUrl": "rdf:type",
+                        "valueUrl": "qb:Slice"
+                    },
+                    {
+                        "name": "virt_slice_structure",
+                        "virtual": true,
+                        "propertyUrl": "qb:sliceStructure",
+                        "valueUrl": "search-and-rescue-helicopter-statistics.csv#slice/cross-measures"
+                    },
+                    {
+                        "name": "virt_obs_duration",
+                        "virtual": true,
+                        "propertyUrl": "qb:observation",
+                        "valueUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations"
+                    },
+                    {
+                        "name": "virt_obs_duration_meas",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "qb:measureType",
+                        "valueUrl": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations"
+                    },
+                    {
+                        "name": "virt_obs_duration_unit",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure",
+                        "valueUrl": "search-and-rescue-helicopter-statistics.csv#unit/number"
+                    },
+                    {
+                        "name": "virt_dim_duration_date",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/day",
+                        "valueUrl": "day.csv#{+date}"
+                    },
+                    {
+                        "name": "virt_dim_duration_day_of_week",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/weekday",
+                        "valueUrl": "weekday.csv#{+day_of_week}"
+                    },
+                    {
+                        "name": "virt_dim_duration_ons_code",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography",
+                        "valueUrl": "http://statistics.data.gov.uk/id/statistical-geography/{+ons_code}"
+                    },
+                    {
+                        "name": "virt_dim_duration_type_of_tasking",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype",
+                        "valueUrl": "taskingtype.csv#{+type_of_tasking}"
+                    },
+                    {
+                        "name": "virt_dim_duration_tasking_location",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc",
+                        "valueUrl": "tasking_loc.csv#{+tasking_location}"
+                    },
+                    {
+                        "name": "virt_dim_duration_tasking_outcome",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme",
+                        "valueUrl": "tasking_outcme.csv#{+tasking_outcome}"
+                    },
+                    {
+                        "name": "virt_dim_duration_region",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "search-and-rescue-helicopter-statistics.csv#dimension/region",
+                        "valueUrl": "region.csv#{+region}"
+                    },
+                    {
+                        "name": "virt_obs_duration_type",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "rdf:type",
+                        "valueUrl": "qb:Observation"
+                    },
+                    {
+                        "name": "virt_dataSet_duration",
+                        "virtual": true,
+                        "aboutUrl": "search-and-rescue-helicopter-statistics.csv#obs/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}@uk-search-and-rescue-helicopter-taskings-durations",
+                        "propertyUrl": "qb:dataSet",
+                        "valueUrl": "search-and-rescue-helicopter-statistics.csv#dataset"
+                    }
+                ],
+                "foreignKeys": [
+                    {
+                        "columnReference": "date",
+                        "reference": {
+                            "resource": "day.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    },
+                    {
+                        "columnReference": "day_of_week",
+                        "reference": {
+                            "resource": "weekday.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    },
+                    {
+                        "columnReference": "type_of_tasking",
+                        "reference": {
+                            "resource": "taskingtype.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    },
+                    {
+                        "columnReference": "tasking_location",
+                        "reference": {
+                            "resource": "tasking_loc.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    },
+                    {
+                        "columnReference": "tasking_outcome",
+                        "reference": {
+                            "resource": "tasking_outcme.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    },
+                    {
+                        "columnReference": "region",
+                        "reference": {
+                            "resource": "region.csv",
+                            "columnReference": "uri_identifier"
+                        }
+                    }
+                ],
+                "primaryKey": [
+                    "date",
+                    "day_of_week",
+                    "ons_code",
+                    "type_of_tasking",
+                    "tasking_location",
+                    "tasking_outcome",
+                    "region"
+                ],
+                "aboutUrl": "search-and-rescue-helicopter-statistics.csv#slice/{date},{day_of_week},{ons_code},{type_of_tasking},{tasking_location},{tasking_outcome},{region}"
+            }
+        },
+        {
+            "url": "day.csv",
+            "tableSchema": "day.table.json",
+            "suppressOutput": true
+        },
+        {
+            "url": "weekday.csv",
+            "tableSchema": "weekday.table.json",
+            "suppressOutput": true
+        },
+        {
+            "url": "taskingtype.csv",
+            "tableSchema": "taskingtype.table.json",
+            "suppressOutput": true
+        },
+        {
+            "url": "tasking_loc.csv",
+            "tableSchema": "tasking_loc.table.json",
+            "suppressOutput": true
+        },
+        {
+            "url": "tasking_outcme.csv",
+            "tableSchema": "tasking_outcme.table.json",
+            "suppressOutput": true
+        },
+        {
+            "url": "region.csv",
+            "tableSchema": "region.table.json",
+            "suppressOutput": true
+        }
+    ],
+    "rdfs:seeAlso": [
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/taskingtype",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 4
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/unit",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#attribute": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentRequired": [
+                {
+                    "@value": true
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 9
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/day",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/day"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/day"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 1
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/taskingtype",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/statistical-geography",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/tasking_loc",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 5
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/statistical-geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 3
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "taskingtype.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Taskingtype"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/taskingtype"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/tasking_outcme",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 6
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#structure",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#DataStructureDefinition",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#component": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/taskingtype"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/tasking_loc"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/unit"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/tasking_outcme"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/weekday"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/day"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/region"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/measure-type"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/uk-search-and-rescue-helicopter-taskings-durations"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#component/statistical-geography"
+                }
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/day"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/region"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/weekday"
+                },
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc"
+                }
+            ],
+            "http://purl.org/linked-data/cube#sliceKey": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#slice/cross-measures"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#csvcubed-build-activity",
+            "@type": [
+                "http://www.w3.org/ns/prov#Activity",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://www.w3.org/ns/prov#used": [
+                {
+                    "@id": "https://github.com/GSS-Cogs/csvcubed/releases/tag/v0.4.4"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#slice/cross-measures",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://purl.org/linked-data/cube#SliceKey",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/day"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/region"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/weekday"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography"
+                },
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/taskingtype"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/day",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/weekday",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/weekday",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "weekday.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Weekday"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/weekday"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/day",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "day.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Day"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/day"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refPeriod"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/measure-type",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "http://purl.org/linked-data/cube#measureType"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 8
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/uk-search-and-rescue-helicopter-taskings-durations",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations"
+                }
+            ],
+            "http://purl.org/linked-data/cube#measure": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 10
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/statistical-geography",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Statistical Geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/statistical-geography"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "http://purl.org/linked-data/sdmx/2009/dimension#refArea"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/weekday",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/weekday"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/weekday"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 2
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#measure/uk-search-and-rescue-helicopter-taskings-durations",
+            "@type": [
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://purl.org/linked-data/cube#MeasureProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#comment": [
+                {
+                    "@language": "en",
+                    "@value": "UK Civilian Search and Rescue Helicopter duration by tasking."
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "UK Search and Rescue Helicopter Taskings Durations"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "http://www.w3.org/2001/XMLSchema#float"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#subPropertyOf": [
+                {
+                    "@id": "https://purl.org/csv-cubed/resources/measures#elapsed-time"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/tasking_outcme",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/tasking_loc",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#class/region",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Class",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_outcme",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "tasking_outcme.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Tasking_outcme"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/tasking_outcme"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dataset",
+            "@type": [
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://purl.org/linked-data/cube#Attachable",
+                "http://www.w3.org/ns/dcat#Dataset",
+                "http://www.w3.org/ns/dcat#Resource",
+                "http://purl.org/linked-data/cube#DataSet"
+            ],
+            "http://purl.org/dc/terms/creator": [
+                {
+                    "@id": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
+                }
+            ],
+            "http://purl.org/dc/terms/description": [
+                {
+                    "@type": "https://www.w3.org/ns/iana/media-types/text/markdown#Resource",
+                    "@value": "All registered vehicles in Great Britain; from 1994 Quarter 4 (end December)"
+                }
+            ],
+            "http://purl.org/dc/terms/identifier": [
+                {
+                    "@value": "Search and Rescue Helicopter Statistics"
+                }
+            ],
+            "http://purl.org/dc/terms/issued": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2023-10-17T17:46:11.967750"
+                }
+            ],
+            "http://purl.org/dc/terms/license": [
+                {
+                    "@id": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+                }
+            ],
+            "http://purl.org/dc/terms/modified": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2023-10-17T17:46:11.967750"
+                }
+            ],
+            "http://purl.org/dc/terms/publisher": [
+                {
+                    "@id": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency"
+                }
+            ],
+            "http://purl.org/dc/terms/title": [
+                {
+                    "@language": "en",
+                    "@value": "Search and Rescue Helicopter Statistics"
+                }
+            ],
+            "http://purl.org/linked-data/cube#structure": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#structure"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Search and Rescue Helicopter Statistics"
+                }
+            ],
+            "http://www.w3.org/ns/dcat#keyword": [
+                {
+                    "@language": "en",
+                    "@value": "safety"
+                },
+                {
+                    "@language": "en",
+                    "@value": "Search"
+                },
+                {
+                    "@language": "en",
+                    "@value": "rescue"
+                },
+                {
+                    "@language": "en",
+                    "@value": "helicopter"
+                }
+            ],
+            "http://www.w3.org/ns/prov#wasGeneratedBy": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#csvcubed-build-activity"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/tasking_loc",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "tasking_loc.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Tasking_loc"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/tasking_loc"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dimension/region",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentProperty",
+                "http://www.w3.org/2000/01/rdf-schema#Resource",
+                "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+                "http://purl.org/linked-data/cube#DimensionProperty",
+                "http://purl.org/linked-data/cube#CodedProperty"
+            ],
+            "http://purl.org/linked-data/cube#codeList": [
+                {
+                    "@id": "region.csv#code-list"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Region"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#range": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#class/region"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#component/region",
+            "@type": [
+                "http://purl.org/linked-data/cube#ComponentSpecification",
+                "http://purl.org/linked-data/cube#ComponentSet",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/linked-data/cube#componentProperty": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/region"
+                }
+            ],
+            "http://purl.org/linked-data/cube#dimension": [
+                {
+                    "@id": "search-and-rescue-helicopter-statistics.csv#dimension/region"
+                }
+            ],
+            "http://purl.org/linked-data/cube#order": [
+                {
+                    "@value": 7
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/day",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./day.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "day.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/weekday",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./weekday.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "weekday.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/taskingtype",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./taskingtype.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "taskingtype.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/tasking_loc",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./tasking_loc.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "tasking_loc.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/tasking_outcme",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./tasking_outcme.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "tasking_outcme.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#dependency/region",
+            "@type": [
+                "http://rdfs.org/ns/void#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://rdfs.org/ns/void#dataDump": [
+                {
+                    "@id": "./region.csv-metadata.json"
+                }
+            ],
+            "http://rdfs.org/ns/void#uriSpace": [
+                {
+                    "@value": "region.csv#"
+                }
+            ]
+        },
+        {
+            "@id": "search-and-rescue-helicopter-statistics.csv#unit/number",
+            "@type": [
+                "http://www.ontology-of-units-of-measure.org/resource/om-2/Unit",
+                "http://qudt.org/schema/qudt/Unit",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://qudt.org/schema/qudt/isScalingOf": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/NUM"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasFactor": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#float",
+                    "@value": "1.0"
+                }
+            ],
+            "http://www.ontology-of-units-of-measure.org/resource/om-2/hasUnit": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/NUM"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#isDefinedBy": [
+                {
+                    "@id": "http://qudt.org/vocab/unit/NUM"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Number"
+                }
+            ]
+        }
+    ]
+}

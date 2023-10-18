@@ -1,0 +1,8 @@
+Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description
+friday,Friday,friday,,0,
+monday,Monday,monday,,1,
+saturday,Saturday,saturday,,2,
+sunday,Sunday,sunday,,3,
+thursday,Thursday,thursday,,4,
+tuesday,Tuesday,tuesday,,5,
+wednesday,Wednesday,wednesday,,6,

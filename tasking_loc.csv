@@ -1,0 +1,4 @@
+Uri Identifier,Label,Notation,Parent Uri Identifier,Sort Priority,Description
+coast,Coast,coast,,0,
+land,Land,land,,1,
+maritime,Maritime,maritime,,2,
