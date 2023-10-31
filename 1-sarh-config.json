@@ -1,10 +1,14 @@
 {
   "$schema": "https://purl.org/csv-cubed/qube-config/v1",
-  "title": "Search and Rescue Helicopter Statistics",
-  "description": "All registered vehicles in Great Britain; from 1994 Quarter 4 (end December)",
-  "creator": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
-  "publisher": "https://www.gov.uk/government/organisations/maritime-and-coastguard-agency",
+  "title": "UK Search and Rescue Helicopter Statistics: Record Level Data, from April 2015",
+  "description": "UK Search and Rescue Helicopter Statistics: Record Level Data, from April 2015. This table provides information on all Search and Rescue Helicopter taskings in the UK. Please note, taskings are recorded by financial year ie: year 2019 - 20 covers all taskings between April 2019 and March 2020. The figures in this table are national statistics. Since April 2016, there has been an update to the methodology of the tasking category data including a more thorough breakdown of the type of tasking the base responded to i.e. whether the tasking was aborted, complete, stood down etc. Therefore, it will not be possible to compare the latest data to data for financial year ending 2016. From April 2018 onwards, the boundaries of the regions have been updated to reflect changes to the EU NUTS Classification System. 30 records from tab 2020_21 have been removed as they were identified as duplicates during further data cleaning.",
+  "creator": "https://www.gov.uk/government/organisations/department-for-transport",
+  "publisher": "https://www.gov.uk/government/organisations/department-for-transport",
+  "public_contact_point_uri": "mailto:SARH.stats@dft.gov.uk",
   "license": "http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+  "dataset_issued": "2023-06-22T00:00:00Z",
+  "themes":"https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes",
+  "summary": "Data from April 2022 to September 2022 that has been derived from a new data source originating from the Aeronautical Rescue Coordination Centre (ARCC). ",
   "keywords": [
     "rescue",
     "helicopter",
@@ -19,17 +23,17 @@
       "type": "dimension",
       "label": "Weekday"
    },
-    "Base": false,
-    "ONS_code": {
-      "from_template": "statistical-geography"
-    },
+    "Base": {
+      "type": "dimension",
+      "label": "Base"
+   },
+    "ONS_code": false,
     "Type of tasking":{
       "type": "dimension",
       "label": "Taskingtype"
    },
     "Tasking location":{
       "type": "dimension",
-      "label": "Geographic region",
       "label": "Tasking_loc"
    },
     "Tasking outcome":{
@@ -52,7 +56,13 @@
         "from_existing": "http://qudt.org/vocab/unit/NUM"
       }
     },
-    "Latitude":false,
-    "Longitude":false
+    "Latitude":{
+      "type": "dimension",
+      "label": "Latitude"
+   },
+    "Longitude":{
+      "type": "dimension",
+      "label": "Longitude"
+   }
   }
 }
